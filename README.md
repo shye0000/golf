@@ -1,2 +1,3 @@
 # golf
-Responsive golf static website
+Responsive golf static website<br/>
+works great in pc, tablet and smartphone
