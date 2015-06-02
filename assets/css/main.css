@@ -2400,6 +2400,8 @@
 	}
 
 /* Sidebar */
+	#sidebar {
+	}
 
 	#sidebar > hr {
 		top: 3em;
@@ -2412,6 +2414,14 @@
 
 	#sidebar > section {
 		margin-bottom: 0;
+		!background: #df7366;
+		!padding: 2vh;
+
+	}
+	#sidebar header {
+		!background: #df7366;
+		!padding: 2vh;
+
 	}
 
 /* Main */
@@ -3189,11 +3199,12 @@ footer.next{
 
 .coollist{
 	list-style: square outside none;
+	margin-left: 1em;
 }
 .coollist2{
 	list-style: square inside none;
 }
 
 ul li p, ul li ul h4, ul li ul li{
-	padding: 0 0 0 1vh;
+	padding: 0 0 0 0;
 }

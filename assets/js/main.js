@@ -24,7 +24,7 @@
 			carousels: {
 				speed: 4,
 				fadeIn: true,
-				fadeDelay: 250
+				fadeDelay: 50
 			},
 
 	};
