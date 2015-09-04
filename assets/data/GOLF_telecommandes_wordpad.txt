@@ -1,0 +1,2459 @@
+960405 TC 62 OK a lobt = 17h0mn30s nb=15951 (3E4F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+960405 TC 63 OK a lobt = 17h3mn10s nb=15953 (3E51 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 7914 (1eea) 
+960405 TC 64 OK a lobt = 21h23mn10s nb=16148 (3F14 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8185 (1ff9) 
+960409 TC 65 OK a lobt = 13h3mn10s nb=20093 (4E7D hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 0 (0) 
+960409 TC 66 OK a lobt = 13h7mn10s nb=20096 (4E80 hex)
+  27 GBPOFAIL select polarizer failure mode
+960409 TC 67 OK a lobt = 13h20mn30s nb=20106 (4E8A hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 3780 (ec4) 
+960409 TC 68 OK a lobt = 13h21mn50s nb=20107 (4E8B hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 10 (a) 
+960409 TC 69 OK a lobt = 13h24mn30s nb=20109 (4E8D hex)
+  29 GBPOTEC select polarizer technical mode
+960409 TC 70 OK a lobt = 13h32mn30s nb=20115 (4E93 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 3830 (ef6) 
+960409 TC 71 OK a lobt = 13h33mn50s nb=20116 (4E94 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8 (8) 
+960409 TC 73 OK a lobt = 13h40mn30s nb=20121 (4E99 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 3870 (f1e) 
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 5 (5) 
+960409 TC 74 OK a lobt = 13h51mn10s nb=20129 (4EA1 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 3980 (f8c) 
+960409 TC 75 OK a lobt = 13h56mn30s nb=20133 (4EA5 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 4000 (fa0) 
+960409 TC 77 OK a lobt = 14h1mn50s nb=20137 (4EA9 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 3880 (f28) 
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 4 (4) 
+960409 TC 78 OK a lobt = 15h25mn50s nb=20200 (4EE8 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 5886 (16fe) 
+960409 TC 80 OK a lobt = 15h29mn50s nb=20203 (4EEB hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 6271 (187f) 
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+960409 TC 81 OK a lobt = 15h35mn10s nb=20207 (4EEF hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6200 (1838) 
+960409 TC 82 OK a lobt = 15h37mn50s nb=20209 (4EF1 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6300 (189c) 
+960409 TC 83 OK a lobt = 15h39mn10s nb=20210 (4EF2 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6290 (1892) 
+960409 TC 84 OK a lobt = 15h40mn30s nb=20211 (4EF3 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6280 (1888) 
+960409 TC 85 OK a lobt = 15h41mn50s nb=20212 (4EF4 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6270 (187e) 
+960409 TC 87 OK a lobt = 15h43mn10s nb=20213 (4EF5 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6260 (1874) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6250 (186a) 
+960409 TC 88 OK a lobt = 15h44mn30s nb=20214 (4EF6 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6240 (1860) 
+960409 TC 90 OK a lobt = 15h45mn50s nb=20215 (4EF7 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6230 (1856) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6220 (184c) 
+960409 TC 91 OK a lobt = 15h47mn10s nb=20216 (4EF8 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6200 (1838) 
+960409 TC 92 OK a lobt = 15h48mn30s nb=20217 (4EF9 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6220 (184c) 
+960409 TC 93 OK a lobt = 15h51mn10s nb=20219 (4EFB hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6270 (187e) 
+960409 TC 94 OK a lobt = 15h52mn30s nb=20220 (4EFC hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6260 (1874) 
+960409 TC 96 OK a lobt = 15h53mn50s nb=20221 (4EFD hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6250 (186a) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6240 (1860) 
+960409 TC 97 OK a lobt = 21h39mn10s nb=20480 (5000 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6230 (1856) 
+960409 TC 98 OK a lobt = 21h40mn30s nb=20481 (5001 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6230 (1856) 
+960409 TC 99 OK a lobt = 21h43mn10s nb=20483 (5003 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6220 (184c) 
+960409 TC 100 OK a lobt = 21h44mn30s nb=20484 (5004 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6220 (184c) 
+960409 TC 101 OK a lobt = 21h45mn50s nb=20485 (5005 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6230 (1856) 
+960409 TC 102 OK a lobt = 21h48mn30s nb=20487 (5007 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6225 (1851) 
+960409 TC 103 OK a lobt = 21h52mn30s nb=20490 (500A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6225 (1851) 
+960409 TC 104 OK a lobt = 21h55mn10s nb=20492 (500C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6250 (186a) 
+960409 TC 105 OK a lobt = 21h56mn30s nb=20493 (500D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6240 (1860) 
+960409 TC 106 OK a lobt = 21h57mn50s nb=20494 (500E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6235 (185b) 
+960409 TC 107 OK a lobt = 21h59mn10s nb=20495 (500F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6230 (1856) 
+960409 TC 108 OK a lobt = 22h0mn30s nb=20496 (5010 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6225 (1851) 
+960409 TC 109 OK a lobt = 22h3mn10s nb=20498 (5012 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 6264 (1878) 
+960409 TC 110 OK a lobt = 22h4mn30s nb=20499 (5013 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+960409 TC 111 OK a lobt = 22h13mn50s nb=20506 (501A hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 0 (0) 
+960409 TC 112 OK a lobt = 22h16mn30s nb=20508 (501C hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+960409 TC 113 OK a lobt = 22h19mn10s nb=20510 (501E hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 8192 (2000) 
+960409 TC 114 OK a lobt = 22h27mn10s nb=20516 (5024 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 8192 (2000) 
+960409 TC 115 OK a lobt = 22h31mn10s nb=20519 (5027 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 8100 (1fa4) 
+960409 TC 117 OK a lobt = 22h35mn10s nb=20522 (502A hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+  40$ GBPOINI polarizer initial angle
+  parametre = 5886 (16fe) 
+960409 TC 118 OK a lobt = 22h36mn30s nb=20523 (502B hex)
+  29 GBPOTEC select polarizer technical mode
+960409 TC 120 OK a lobt = 22h37mn50s nb=20524 (502C hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 0 (0) 
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+960409 TC 121 OK a lobt = 22h40mn30s nb=20526 (502E hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 0 (0) 
+960409 TC 122 OK a lobt = 22h41mn50s nb=20527 (502F hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 0 (0) 
+960409 TC 123 OK a lobt = 22h49mn50s nb=20533 (5035 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 6196 (1834) 
+960409 TC 124 OK a lobt = 22h51mn10s nb=20534 (5036 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+960409 TC 125 OK a lobt = 22h52mn30s nb=20535 (5037 hex)
+  29 GBPOTEC select polarizer technical mode
+960409 TC 126 OK a lobt = 22h55mn10s nb=20537 (5039 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 7100 (1bbc) 
+960409 TC 127 OK a lobt = 22h57mn50s nb=20539 (503B hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 7120 (1bd0) 
+960409 TC 128 OK a lobt = 23h0mn30s nb=20541 (503D hex)
+  29 GBPOTEC select polarizer technical mode
+960409 TC 129 OK a lobt = 23h1mn50s nb=20542 (503E hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8186 (1ffa) 
+960409 TC 130 OK a lobt = 23h8mn30s nb=20547 (5043 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 5886 (16fe) 
+960409 TC 131 OK a lobt = 23h13mn50s nb=20551 (5047 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+960409 TC 132 OK a lobt = 23h16mn30s nb=20553 (5049 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+960409 TC 134 OK a lobt = 23h21mn50s nb=20557 (504D hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 7160 (1bf8) 
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8 (8) 
+960409 TC 135 OK a lobt = 23h29mn50s nb=20563 (5053 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 20 (14) 
+960409 TC 136 OK a lobt = 23h40mn30s nb=20571 (505B hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 7340 (1cac) 
+960409 TC 137 OK a lobt = 23h43mn10s nb=20573 (505D hex)
+  29 GBPOTEC select polarizer technical mode
+960409 TC 138 OK a lobt = 23h47mn10s nb=20576 (5060 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 6 (6) 
+960409 TC 139 OK a lobt = 23h48mn30s nb=20577 (5061 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+960409 TC 140 OK a lobt = 23h53mn50s nb=20581 (5065 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1434 (59a) 
+960409 TC 141 OK a lobt = 23h55mn10s nb=20582 (5066 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1440 (5a0) 
+960409 TC 142 OK a lobt = 23h56mn30s nb=20583 (5067 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1450 (5aa) 
+960409 TC 143 OK a lobt = 23h57mn50s nb=20584 (5068 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1460 (5b4) 
+960410 TC 145 OK a lobt = 11h39mn10s nb=21110 (5276 hex)
+  41$ GBQWINI quarter-wave initial angle
+  parametre = 7110 (1bc6) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1405 (57d) 
+960410 TC 146 OK a lobt = 11h40mn30s nb=21111 (5277 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1415 (587) 
+960410 TC 147 OK a lobt = 11h41mn50s nb=21112 (5278 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1425 (591) 
+960410 TC 148 OK a lobt = 11h43mn10s nb=21113 (5279 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1435 (59b) 
+960410 TC 149 OK a lobt = 11h44mn30s nb=21114 (527A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1445 (5a5) 
+960410 TC 150 OK a lobt = 11h45mn50s nb=21115 (527B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1455 (5af) 
+960410 TC 151 OK a lobt = 11h47mn10s nb=21116 (527C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1425 (591) 
+960410 TC 152 OK a lobt = 11h48mn30s nb=21117 (527D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1435 (59b) 
+960410 TC 153 OK a lobt = 11h49mn50s nb=21118 (527E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1439 (59f) 
+960410 TC 154 OK a lobt = 11h51mn10s nb=21119 (527F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1443 (5a3) 
+960410 TC 155 OK a lobt = 11h52mn30s nb=21120 (5280 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1447 (5a7) 
+960410 TC 156 OK a lobt = 11h55mn10s nb=21122 (5282 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1405 (57d) 
+960410 TC 158 OK a lobt = 11h57mn50s nb=21124 (5284 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 1405 (57d) 
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 8 (8) 
+960410 TC 159 OK a lobt = 12h3mn10s nb=21128 (5288 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1500 (5dc) 
+960410 TC 161 OK a lobt = 12h8mn30s nb=21132 (528C hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 1469 (5bd) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1473 (5c1) 
+960410 TC 162 OK a lobt = 12h11mn10s nb=21134 (528E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1443 (5a3) 
+960410 TC 163 OK a lobt = 12h12mn30s nb=21135 (528F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1445 (5a5) 
+960410 TC 164 OK a lobt = 12h13mn50s nb=21136 (5290 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1447 (5a7) 
+960410 TC 165 OK a lobt = 12h15mn10s nb=21137 (5291 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1449 (5a9) 
+960410 TC 166 OK a lobt = 12h17mn50s nb=21139 (5293 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1451 (5ab) 
+960410 TC 167 OK a lobt = 12h19mn10s nb=21140 (5294 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1453 (5ad) 
+960410 TC 168 OK a lobt = 12h20mn30s nb=21141 (5295 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1455 (5af) 
+960410 TC 169 OK a lobt = 12h21mn50s nb=21142 (5296 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1457 (5b1) 
+960410 TC 170 OK a lobt = 12h23mn10s nb=21143 (5297 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1459 (5b3) 
+960410 TC 171 OK a lobt = 12h24mn30s nb=21144 (5298 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1461 (5b5) 
+960410 TC 172 OK a lobt = 12h25mn50s nb=21145 (5299 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1463 (5b7) 
+960410 TC 173 OK a lobt = 12h27mn10s nb=21146 (529A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1465 (5b9) 
+960410 TC 174 OK a lobt = 12h28mn30s nb=21147 (529B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1467 (5bb) 
+960410 TC 175 OK a lobt = 12h29mn50s nb=21148 (529C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1469 (5bd) 
+960410 TC 176 OK a lobt = 12h31mn10s nb=21149 (529D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1471 (5bf) 
+960410 TC 177 OK a lobt = 12h35mn10s nb=21152 (52A0 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1420 (58c) 
+960410 TC 178 OK a lobt = 12h37mn50s nb=21154 (52A2 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 1420 (58c) 
+960410 TC 179 OK a lobt = 12h41mn50s nb=21157 (52A5 hex)
+  42$ GBPOSTP pol fail tech mode: step amplitude
+  parametre = 2 (2) 
+960410 TC 180 OK a lobt = 13h11mn10s nb=21179 (52BB hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+960410 TC 182 OK a lobt = 13h19mn10s nb=21185 (52C1 hex)
+  41$ GBQWINI quarter-wave initial angle
+  parametre = 8110 (1fae) 
+  40$ GBPOINI polarizer initial angle
+  parametre = 1790 (6fe) 
+960521 TC 183 OK a lobt = 0h31mn10s nb=64889 (FD79 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 150 (96) 
+960521 TC 184 OK a lobt = 0h32mn30s nb=64890 (FD7A hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 150 (96) 
+960521 TC 185 OK a lobt = 0h33mn50s nb=64891 (FD7B hex)
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+960521 TC 186 OK a lobt = 0h35mn10s nb=64892 (FD7C hex)
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+960521 TC 188 OK a lobt = 0h37mn50s nb=64894 (FD7E hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+960521 TC 190 OK a lobt = 0h41mn50s nb=64897 (FD81 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+960521 TC 191 OK a lobt = 20h 0mn30s nb=230 (E6 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 91 (5b) 
+960521 TC 192 OK a lobt = 20h1mn50s nb=231 (E7 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 91 (5b) 
+960911 TC 0 OK a lobt = 23h5mn50s nb=2 (2 hex)
+960912 TC 1 OK a lobt = 14h29mn50s nb=695 (2B7 hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+960912 TC 3 OK a lobt = 14h31mn10s nb=696 (2B8 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6065 (17b1) 
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14976 (3a80) 
+960913 TC 7 OK a lobt = 15h28mn30s nb=1819 (71B hex)
+  2C GBMMON magnetic modulation on
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 90 (5a) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 170 (aa) 
+  24 GBDOOP open the door
+960913 TC 11 OK a lobt = 15h31mn10s nb=1821 (71D hex)
+  57$ GBSC1THR load science threshold discri for pm1
+  parametre = 81 (51) 
+  58$ GBSC2THR load science threshold discri for pm2
+  parametre = 81 (51) 
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 91 (5b) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 91 (5b) 
+960913 TC 15 OK a lobt = 15h32mn30s nb=1822 (71E hex)
+  2F GBMMACT select magnetic modulation activated mode
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+  5E$ GB8HDLAY load first delayed buffer retardation
+  parametre = 450 (1c2) 
+960913 TC 19 OK a lobt = 15h35mn10s nb=1824 (720 hex)
+  40$ GBPOINI polarizer initial angle
+  parametre = 1790 (6fe) 
+  41$ GBQWINI quarter-wave initial angle
+  parametre = 8110 (1fae) 
+  4B$ GBCBCST select cell bulb constant heating and fix current value
+  parametre = 12192 (2fa0) 
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+961015 TC 20 OK a lobt = 15h52mn30s nb=36397 (8E2D hex)
+  48$ GBFISTP filter step amplitude in regulation/scan mode
+  parametre = 16 (10) 
+961015 TC 22 OK a lobt = 15h55mn10s nb=36399 (8E2F hex)
+  4A$ GBFIDUR filter step duration in scan mode
+  parametre = 128 (80) 
+  49$ GBFINB filter number of step in scan mode
+  parametre = 14 (e) 
+961015 TC 24 OK a lobt = 15h56mn30s nb=36400 (8E30 hex)
+  4D$ GBCBSTP step to maintain 15 deg cell gradient
+  parametre = 1 (1) 
+  4F$ GBCSSTP cell step amplitude in regulation/scan mode
+  parametre = 32 (20) 
+961015 TC 26 OK a lobt = 15h57mn50s nb=36401 (8E31 hex)
+  53$ GBCSNB cell number of step in scan mode
+  parametre = 8 (8) 
+  54$ GBCSDUR cell step duration in scan mode
+  parametre = 160 (a0) 
+961015 TC 28 OK a lobt = 15h59mn10s nb=36402 (8E32 hex)
+  5C$ GBSWDUIA memory dump, initial address
+  parametre = 49152 (c000) 
+  5D$ GBSWDUEA memory dump, final address
+  parametre = 65535 (ffff) 
+961015 TC 29 OK a lobt = 16h0mn30s nb=36403 (8E33 hex)
+  51$ GBCSSAMP cell regulation mode par 
+  parametre = 69 (45) 
+961015 TC 30 OK a lobt = 16h12mn30s nb=36412 (8E3C hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+961015 TC 31 OK a lobt = 16h13mn50s nb=36413 (8E3D hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+961015 TC 33 OK a lobt = 16h15mn10s nb=36414 (8E3E hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+961015 TC 34 OK a lobt = 16h23mn10s nb=36420 (8E44 hex)
+  48$ GBFISTP filter step amplitude in regulation/scan mode
+  parametre = 1 (1) 
+961015 TC 36 OK a lobt = 16h24mn30s nb=36421 (8E45 hex)
+  4A$ GBFIDUR filter step duration in scan mode
+  parametre = 64 (40) 
+  49$ GBFINB filter number of step in scan mode
+  parametre = 14 (e) 
+961015 TC 38 OK a lobt = 16h25mn50s nb=36422 (8E46 hex)
+  4D$ GBCBSTP step to maintain 15 deg cell gradient
+  parametre = 0 (0) 
+  4F$ GBCSSTP cell step amplitude in regulation/scan mode
+  parametre = 16 (10) 
+961015 TC 40 OK a lobt = 16h27mn10s nb=36423 (8E47 hex)
+  53$ GBCSNB cell number of step in scan mode
+  parametre = 10 (a) 
+  54$ GBCSDUR cell step duration in scan mode
+  parametre = 64 (40) 
+961015 TC 41 OK a lobt = 16h28mn30s nb=36424 (8E48 hex)
+  51$ GBCSSAMP cell regulation mode par 
+  parametre = 64 (40) 
+961015 TC 43 OK a lobt = 19h44mn30s nb=36571 (8EDB hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 91 (5b) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 91 (5b) 
+970113 TC 45 OK a lobt = 16h15mn10s nb=2542 (9EE hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+970113 TC 47 OK a lobt = 16h16mn30s nb=2543 (9EF hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+970113 TC 48 OK a lobt = 21h12mn30s nb=2765 (ACD hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 91 (5b) 
+970113 TC 49 OK a lobt = 21h13mn50s nb=2766 (ACE hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 91 (5b) 
+970224 TC 50 OK a lobt = 15h8mn30s nb=47852 (BAEC hex)
+   @ A4(164) commande non interpretable
+970315 TC 52 OK a lobt = 15h24mn40s nb=2848 (B20 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+970315 TC 54 OK a lobt = 15h28mn40s nb=2851 (B23 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+970315 TC 55 OK a lobt = 17h10mn 0s nb=2927 (B6F hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 60 (3c) 
+970315 TC 56 OK a lobt = 17h14mn 0s nb=2930 (B72 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 69 (45) 
+970514 TC 57 OK a lobt = 13h16mn40s nb=2016 (7E0 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+970514 TC 58 OK a lobt = 13h18mn 0s nb=2017 (7E1 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+970514 TC 60 OK a lobt = 13h20mn40s nb=2019 (7E3 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+970514 TC 62 OK a lobt = 17h 8mn40s nb=2190 (88E hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 126 (7e) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 144 (90) 
+970514 TC 63 OK a lobt = 17h11mn20s nb=2192 (890 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 122 (7a) 
+970515 TC 64 OK a lobt = 13h0mn40s nb=3084 (C0C hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 60 (3c) 
+970515 TC 65 OK a lobt = 13h2mn 0s nb=3085 (C0D hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 69 (45) 
+971016 TC 66 OK a lobt = 13h22mn 0s nb=38348 (95CC hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+971016 TC 67 OK a lobt = 13h27mn20s nb=38352 (95D0 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+971016 TC 69 OK a lobt = 13h30mn 0s nb=38354 (95D2 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+971017 TC 70 OK a lobt = 13h50mn 0s nb=39449 (9A19 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 290 (122) 
+971017 TC 71 OK a lobt = 14h6mn0s nb=39461 (9A25 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 69 (45) 
+971017 TC 72 OK a lobt = 14h8mn40s nb=39463 (9A27 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+971017 TC 73 OK a lobt = 14h14mn0s nb=39467 (9A2B hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 69 (45) 
+971017 TC 74 OK a lobt = 14h15mn20s nb=39468 (9A2C hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 60 (3c) 
+971017 TC 75 OK a lobt = 14h20mn40s nb=39472 (9A30 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 90 (5a) 
+971017 TC 76 OK a lobt = 14h24mn40s nb=39475 (9A33 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 290 (122) 
+971017 TC 77 OK a lobt = 14h28mn40s nb=39478 (9A36 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+971017 TC 78 OK a lobt = 14h32mn40s nb=39481 (9A39 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+971017 TC 79 OK a lobt = 16h54mn0s nb=39587 (9AA3 hex)
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 290 (122) 
+971017 TC 80 OK a lobt = 17h36mn40s nb=39619 (9AC3 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+971017 TC 81 OK a lobt = 17h46mn0s nb=39626 (9ACA hex)
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+971017 TC 82 OK a lobt = 22h56mn40s nb=39859 (9BB3 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 83 (53) 
+971017 TC 83 OK a lobt = 22h59mn20s nb=39861 (9BB5 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 80 (50) 
+971020 TC 84 OK a lobt = 14h59mn20s nb=42741 (A6F5 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+971020 TC 85 OK a lobt = 15h0mn40s nb=42742 (A6F6 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+971020 TC 87 OK a lobt = 15h2mn0s nb=42743 (A6F7 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+971020 TC 89 OK a lobt = 21h40mn40s nb=43042 (A822 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 80 (50) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 78 (4e) 
+971120 TC 90 OK a lobt = 13h35mn20s nb=10622 (297E hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 61344 (efa0) 
+980303 TC 91 OK a lobt = 15h10mn0s nb=56397 (DC4D hex)
+   @ F2(242) commande non interpretable
+980304 TC 93 OK a lobt = 12h10mn23s nb=57342 (DFFE hex)
+  24 GBDOOP open the door
+   @ 1D(29) commande non interpretable
+980304 TC 94 OK a lobt = 12h37mn3s nb=57362 (E012 hex)
+   @ C3(195) commande non interpretable
+980415 TC 96 OK a lobt = 16h58mn23s nb=37382 (9206 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+980415 TC 98 OK a lobt = 16h59mn43s nb=37383 (9207 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+980420 TC 99 OK a lobt = 15h11mn43s nb=42702 (A6CE hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 150 (96) 
+980420 TC 100 OK a lobt = 15h13mn3s nb=42703 (A6CF hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 160 (a0) 
+980420 TC 102 OK a lobt = 15h17mn3s nb=42706 (A6D2 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 160 (a0) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 164 (a4) 
+980420 TC 104 OK a lobt = 15h22mn23s nb=42710 (A6D6 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 166 (a6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 168 (a8) 
+980420 TC 105 OK a lobt = 17h43mn43s nb=42816 (A740 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 78 (4e) 
+980420 TC 106 OK a lobt = 17h46mn23s nb=42818 (A742 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 78 (4e) 
+980420 TC 107 OK a lobt = 17h50mn23s nb=42821 (A745 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 76 (4c) 
+980420 TC 108 OK a lobt = 17h53mn3s nb=42823 (A747 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 77 (4d) 
+980608 TC 110 OK a lobt = 14h59mn43s nb=30077 (757D hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+980608 TC 112 OK a lobt = 15h3mn43s nb=30080 (7580 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+980615 TC 113 OK a lobt = 15h18mn23s nb=37651 (9313 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 77 (4d) 
+980615 TC 114 OK a lobt = 15h19mn43s nb=37652 (9314 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 78 (4e) 
+981008 TC 4 OK a lobt = 17h47mn26s nb=8 (8 hex)
+981008 TC 8 OK a lobt = 17h48mn46s nb=9 (9 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 90 (5a) 
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 50 (32) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 90 (5a) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 126 (7e) 
+981008 TC 10 OK a lobt = 17h50mn6s nb=10 (A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8110 (1fae) 
+981008 TC 11 OK a lobt = 17h51mn26s nb=11 (B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1790 (6fe) 
+981008 TC 12 OK a lobt = 17h52mn46s nb=12 (C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8110 (1fae) 
+981008 TC 13 OK a lobt = 18h16mn46s nb=30 (1E hex)
+  24 GBDOOP open the door
+981008 TC 14 OK a lobt = 18h20mn46s nb=33 (21 hex)
+  2F GBMMACT select magnetic modulation activated mode
+981008 TC 15 OK a lobt = 18h26mn 6s nb=37 (25 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 12192 (2fa0) 
+981008 TC 16 OK a lobt = 18h27mn26s nb=38 (26 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6065 (17b1) 
+981008 TC 17 OK a lobt = 18h31mn26s nb=41 (29 hex)
+  4B$ GBCBCST select cell bulb constant heating and fix current value
+  parametre = 12192 (2fa0) 
+981008 TC 18 OK a lobt = 18h50mn6s nb=55 (37 hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+981008 TC 19 OK a lobt = 18h54mn6s nb=58 (3A hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+981008 TC 20 OK a lobt = 18h56mn46s nb=60 (3C hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 290 (122) 
+981008 TC 21 OK a lobt = 18h59mn26s nb=62 (3E hex)
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 290 (122) 
+981008 TC 22 OK a lobt = 19h4mn46s nb=66 (42 hex)
+  5E$ GB8HDLAY load first delayed buffer retardation
+  parametre = 450 (1c2) 
+981008 TC 23 OK a lobt = 19h6mn6s nb=67 (43 hex)
+  57$ GBSC1THR load science threshold discri for pm1
+  parametre = 81 (51) 
+981008 TC 24 OK a lobt = 19h7mn26s nb=68 (44 hex)
+  58$ GBSC2THR load science threshold discri for pm2
+  parametre = 81 (51) 
+981008 TC 25 OK a lobt = 19h16mn46s nb=75 (4B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1597 (63d) 
+981008 TC 26 OK a lobt = 19h20mn46s nb=78 (4E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8110 (1fae) 
+981008 TC 27 OK a lobt = 19h24mn46s nb=81 (51 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1648 (670) 
+981008 TC 28 OK a lobt = 19h26mn6s nb=82 (52 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8110 (1fae) 
+981008 TC 29 OK a lobt = 19h28mn46s nb=84 (54 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1700 (6a4) 
+981008 TC 30 OK a lobt = 19h31mn26s nb=86 (56 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1600 (640) 
+981008 TC 31 OK a lobt = 19h34mn6s nb=88 (58 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1604 (644) 
+981008 TC 32 OK a lobt = 19h36mn46s nb=90 (5A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1606 (646) 
+981008 TC 33 OK a lobt = 19h39mn26s nb=92 (5C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1608 (648) 
+981008 TC 34 OK a lobt = 19h47mn26s nb=98 (62 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1610 (64a) 
+981008 TC 35 OK a lobt = 19h48mn46s nb=99 (63 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1614 (64e) 
+981008 TC 36 OK a lobt = 19h51mn26s nb=101 (65 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 77 (4d) 
+981008 TC 38 OK a lobt = 19h52mn46s nb=102 (66 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 78 (4e) 
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+981008 TC 39 OK a lobt = 19h54mn 6s nb=103 (67 hex)
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+981008 TC 40 OK a lobt = 19h55mn26s nb=104 (68 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 9216 (2400) 
+981008 TC 41 OK a lobt = 20h 0mn46s nb=108 (6C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1618 (652) 
+981008 TC 42 OK a lobt = 20h 3mn26s nb=110 (6E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1628 (65c) 
+981008 TC 43 OK a lobt = 20h 6mn 6s nb=112 (70 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1640 (668) 
+981008 TC 44 OK a lobt = 20h 8mn46s nb=114 (72 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1650 (672) 
+981008 TC 45 OK a lobt = 20h14mn 6s nb=118 (76 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1660 (67c) 
+981008 TC 47 OK a lobt = 20h16mn46s nb=120 (78 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1650 (672) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1652 (674) 
+981008 TC 48 OK a lobt = 20h19mn26s nb=122 (7A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1654 (676) 
+981008 TC 50 OK a lobt = 20h20mn46s nb=123 (7B hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 10240 (2800) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1656 (678) 
+981008 TC 51 OK a lobt = 20h23mn26s nb=125 (7D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1658 (67a) 
+981008 TC 52 OK a lobt = 20h26mn 6s nb=127 (7F hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1654 (676) 
+981008 TC 53 OK a lobt = 20h28mn46s nb=129 (81 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1664 (680) 
+981008 TC 54 OK a lobt = 20h31mn26s nb=131 (83 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1664 (680) 
+981008 TC 55 OK a lobt = 20h34mn 6s nb=133 (85 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 56 OK a lobt = 20h35mn26s nb=134 (86 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 57 OK a lobt = 20h36mn46s nb=135 (87 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 58 OK a lobt = 20h39mn26s nb=137 (89 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 59 OK a lobt = 20h43mn26s nb=140 (8C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 60 OK a lobt = 20h46mn 6s nb=142 (8E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1672 (688) 
+981008 TC 61 OK a lobt = 20h48mn46s nb=144 (90 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1680 (690) 
+981008 TC 62 OK a lobt = 20h50mn 6s nb=145 (91 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1672 (688) 
+981008 TC 63 OK a lobt = 20h52mn46s nb=147 (93 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 64 OK a lobt = 20h55mn26s nb=149 (95 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1690 (69a) 
+981008 TC 65 OK a lobt = 20h58mn 6s nb=151 (97 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1690 (69a) 
+981008 TC 66 OK a lobt = 21h 0mn46s nb=153 (99 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 67 OK a lobt = 21h 3mn26s nb=155 (9B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 68 OK a lobt = 21h 4mn46s nb=156 (9C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 69 OK a lobt = 21h 7mn26s nb=158 (9E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 70 OK a lobt = 21h 8mn46s nb=159 (9F hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 11264 (2c00) 
+981008 TC 71 OK a lobt = 21h10mn 6s nb=160 (A0 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1700 (6a4) 
+981008 TC 72 OK a lobt = 21h11mn26s nb=161 (A1 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1700 (6a4) 
+981008 TC 74 OK a lobt = 21h12mn46s nb=162 (A2 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 75 OK a lobt = 21h14mn 6s nb=163 (A3 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 76 OK a lobt = 21h15mn26s nb=164 (A4 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 77 OK a lobt = 21h16mn46s nb=165 (A5 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 78 OK a lobt = 21h20mn46s nb=168 (A8 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 80 OK a lobt = 21h24mn46s nb=171 (AB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 13312 (3400) 
+981008 TC 81 OK a lobt = 21h26mn 6s nb=172 (AC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 83 OK a lobt = 21h28mn46s nb=174 (AE hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 84 OK a lobt = 21h30mn 6s nb=175 (AF hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 85 OK a lobt = 21h31mn26s nb=176 (B0 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 86 OK a lobt = 21h38mn 6s nb=181 (B5 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 87 OK a lobt = 21h39mn26s nb=182 (B6 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 88 OK a lobt = 21h40mn46s nb=183 (B7 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 89 OK a lobt = 21h46mn 6s nb=187 (BB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 90 OK a lobt = 21h47mn26s nb=188 (BC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 91 OK a lobt = 21h50mn 6s nb=190 (BE hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 92 OK a lobt = 21h51mn26s nb=191 (BF hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 93 OK a lobt = 21h52mn46s nb=192 (C0 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 94 OK a lobt = 21h54mn 6s nb=193 (C1 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 95 OK a lobt = 21h55mn26s nb=194 (C2 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 96 OK a lobt = 21h58mn 6s nb=196 (C4 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 97 OK a lobt = 22h 2mn 6s nb=199 (C7 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 98 OK a lobt = 22h 3mn26s nb=200 (C8 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 100 OK a lobt = 22h 4mn46s nb=201 (C9 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 101 OK a lobt = 22h 6mn 6s nb=202 (CA hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 102 OK a lobt = 22h 7mn26s nb=203 (CB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 103 OK a lobt = 22h 8mn46s nb=204 (CC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 105 OK a lobt = 22h12mn46s nb=207 (CF hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 106 OK a lobt = 22h15mn26s nb=209 (D1 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 107 OK a lobt = 22h16mn46s nb=210 (D2 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 108 OK a lobt = 22h18mn 6s nb=211 (D3 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 109 OK a lobt = 22h19mn26s nb=212 (D4 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 111 OK a lobt = 22h20mn46s nb=213 (D5 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14336 (3800) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 112 OK a lobt = 22h22mn 6s nb=214 (D6 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 113 OK a lobt = 22h23mn26s nb=215 (D7 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 114 OK a lobt = 22h24mn46s nb=216 (D8 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 115 OK a lobt = 22h26mn 6s nb=217 (D9 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 116 OK a lobt = 22h27mn26s nb=218 (DA hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 117 OK a lobt = 22h28mn46s nb=219 (DB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 118 OK a lobt = 22h30mn 6s nb=220 (DC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 119 OK a lobt = 22h31mn26s nb=221 (DD hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 120 OK a lobt = 22h32mn46s nb=222 (DE hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 121 OK a lobt = 22h34mn 6s nb=223 (DF hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 122 OK a lobt = 22h35mn26s nb=224 (E0 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 123 OK a lobt = 22h36mn46s nb=225 (E1 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 124 OK a lobt = 22h38mn 6s nb=226 (E2 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 125 OK a lobt = 22h39mn26s nb=227 (E3 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 126 OK a lobt = 22h40mn46s nb=228 (E4 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 127 OK a lobt = 22h42mn 6s nb=229 (E5 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 128 OK a lobt = 22h43mn26s nb=230 (E6 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 129 OK a lobt = 22h44mn46s nb=231 (E7 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 130 OK a lobt = 22h46mn 6s nb=232 (E8 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 131 OK a lobt = 22h47mn26s nb=233 (E9 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 132 OK a lobt = 22h48mn46s nb=234 (EA hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 133 OK a lobt = 22h50mn 6s nb=235 (EB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 134 OK a lobt = 22h51mn26s nb=236 (EC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 135 OK a lobt = 22h52mn46s nb=237 (ED hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 136 OK a lobt = 22h55mn26s nb=239 (EF hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 138 OK a lobt = 22h56mn46s nb=240 (F0 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14688 (3960) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 139 OK a lobt = 22h58mn 6s nb=241 (F1 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 140 OK a lobt = 22h59mn26s nb=242 (F2 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 141 OK a lobt = 23h 0mn46s nb=243 (F3 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 142 OK a lobt = 23h 2mn 6s nb=244 (F4 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 143 OK a lobt = 23h 3mn26s nb=245 (F5 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 145 OK a lobt = 23h 4mn46s nb=246 (F6 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 146 OK a lobt = 23h 6mn 6s nb=247 (F7 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 147 OK a lobt = 23h 7mn26s nb=248 (F8 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 148 OK a lobt = 23h 8mn46s nb=249 (F9 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 149 OK a lobt = 23h10mn 6s nb=250 (FA hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 150 OK a lobt = 23h11mn26s nb=251 (FB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 151 OK a lobt = 23h12mn46s nb=252 (FC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 152 OK a lobt = 23h14mn 6s nb=253 (FD hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 153 OK a lobt = 23h15mn26s nb=254 (FE hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 154 OK a lobt = 23h16mn46s nb=255 (FF hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 155 OK a lobt = 23h18mn 6s nb=256 (100 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 156 OK a lobt = 23h19mn26s nb=257 (101 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 157 OK a lobt = 23h20mn46s nb=258 (102 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 158 OK a lobt = 23h22mn 6s nb=259 (103 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 159 OK a lobt = 23h23mn26s nb=260 (104 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4014 (fae) 
+981008 TC 160 OK a lobt = 23h24mn46s nb=261 (105 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 161 OK a lobt = 23h26mn 6s nb=262 (106 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 162 OK a lobt = 23h27mn26s nb=263 (107 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 163 OK a lobt = 23h28mn46s nb=264 (108 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 164 OK a lobt = 23h30mn 6s nb=265 (109 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 165 OK a lobt = 23h31mn26s nb=266 (10A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 166 OK a lobt = 23h32mn46s nb=267 (10B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 167 OK a lobt = 23h34mn 6s nb=268 (10C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 168 OK a lobt = 23h35mn26s nb=269 (10D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 169 OK a lobt = 23h36mn46s nb=270 (10E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 170 OK a lobt = 23h39mn26s nb=272 (110 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 171 OK a lobt = 23h40mn46s nb=273 (111 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 173 OK a lobt = 23h42mn 6s nb=274 (112 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 174 OK a lobt = 23h43mn26s nb=275 (113 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 176 OK a lobt = 23h44mn46s nb=276 (114 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 177 OK a lobt = 23h46mn 6s nb=277 (115 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 178 OK a lobt = 23h48mn46s nb=279 (117 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 180 OK a lobt = 23h50mn 6s nb=280 (118 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 181 OK a lobt = 23h51mn26s nb=281 (119 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 183 OK a lobt = 23h52mn46s nb=282 (11A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 184 OK a lobt = 23h54mn 6s nb=283 (11B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 185 OK a lobt = 23h55mn26s nb=284 (11C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981008 TC 186 OK a lobt = 23h56mn46s nb=285 (11D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 189 OK a lobt = 0h 1mn50s nb=288 (120 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 192 OK a lobt = 0h 3mn10s nb=289 (121 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 193 OK a lobt = 0h 4mn30s nb=290 (122 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 194 OK a lobt = 0h 5mn50s nb=291 (123 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 195 OK a lobt = 0h 7mn10s nb=292 (124 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 196 OK a lobt = 0h 8mn30s nb=293 (125 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 198 OK a lobt = 0h11mn10s nb=295 (127 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 199 OK a lobt = 0h12mn30s nb=296 (128 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 200 OK a lobt = 0h13mn50s nb=297 (129 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 201 OK a lobt = 0h15mn10s nb=298 (12A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 202 OK a lobt = 0h16mn30s nb=299 (12B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 203 OK a lobt = 0h19mn10s nb=301 (12D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 204 OK a lobt = 0h20mn30s nb=302 (12E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 205 OK a lobt = 0h21mn50s nb=303 (12F hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 206 OK a lobt = 0h23mn10s nb=304 (130 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 207 OK a lobt = 0h24mn30s nb=305 (131 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 208 OK a lobt = 0h25mn50s nb=306 (132 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 209 OK a lobt = 0h27mn10s nb=307 (133 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 210 OK a lobt = 0h28mn30s nb=308 (134 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 211 OK a lobt = 0h29mn50s nb=309 (135 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 212 OK a lobt = 0h31mn10s nb=310 (136 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 213 OK a lobt = 0h32mn30s nb=311 (137 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 214 OK a lobt = 0h33mn50s nb=312 (138 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 215 OK a lobt = 0h35mn10s nb=313 (139 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 216 OK a lobt = 0h36mn30s nb=314 (13A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 217 OK a lobt = 0h37mn50s nb=315 (13B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 218 OK a lobt = 0h39mn10s nb=316 (13C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 219 OK a lobt = 0h40mn30s nb=317 (13D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 220 OK a lobt = 0h41mn50s nb=318 (13E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 222 OK a lobt = 0h43mn10s nb=319 (13F hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 223 OK a lobt = 0h44mn30s nb=320 (140 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 224 OK a lobt = 0h45mn50s nb=321 (141 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1966 (7ae) 
+981009 TC 225 OK a lobt = 0h47mn10s nb=322 (142 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 226 OK a lobt = 0h48mn30s nb=323 (143 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 227 OK a lobt = 0h49mn50s nb=324 (144 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 228 OK a lobt = 0h51mn10s nb=325 (145 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 229 OK a lobt = 0h52mn30s nb=326 (146 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 230 OK a lobt = 0h53mn50s nb=327 (147 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 231 OK a lobt = 0h55mn10s nb=328 (148 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 232 OK a lobt = 0h56mn30s nb=329 (149 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 233 OK a lobt = 0h57mn50s nb=330 (14A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 234 OK a lobt = 0h59mn10s nb=331 (14B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 235 OK a lobt = 1h 0mn30s nb=332 (14C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 236 OK a lobt = 1h 1mn50s nb=333 (14D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 237 OK a lobt = 1h 3mn10s nb=334 (14E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 238 OK a lobt = 1h 4mn30s nb=335 (14F hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 239 OK a lobt = 1h 5mn50s nb=336 (150 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 240 OK a lobt = 1h 7mn10s nb=337 (151 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 241 OK a lobt = 1h 8mn30s nb=338 (152 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 243 OK a lobt = 1h 9mn50s nb=339 (153 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 244 OK a lobt = 1h11mn10s nb=340 (154 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 245 OK a lobt = 1h12mn30s nb=341 (155 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 246 OK a lobt = 1h13mn50s nb=342 (156 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 247 OK a lobt = 1h15mn10s nb=343 (157 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 248 OK a lobt = 1h16mn30s nb=344 (158 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 250 OK a lobt = 1h17mn50s nb=345 (159 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 251 OK a lobt = 1h19mn10s nb=346 (15A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981009 TC 252 OK a lobt = 1h20mn30s nb=347 (15B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1967 (7af) 
+981130 TC 253 OK a lobt = 16h55mn10s nb=57208 (DF78 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+981130 TC 254 OK a lobt = 16h56mn30s nb=57209 (DF79 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+981130 TC 0 OK a lobt = 16h59mn10s nb=57211 (DF7B hex)
+981203 TC 2 OK a lobt = 18h35mn10s nb=60523 (EC6B hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 68 (44) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 70 (46) 
+981203 TC 3 OK a lobt = 18h39mn10s nb=60526 (EC6E hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 69 (45) 
+990202 TC 4 OK a lobt = 18h11mn10s nb=60849 (EDB1 hex)
+990203 TC 5 OK a lobt = 15h40mn30s nb=61816 (F178 hex)
+   @ C8(200) commande non interpretable
+990927 TC 7 OK a lobt = 20h 5mn14s nb=54750 (D5DE hex)
+   @ CB(203) commande non interpretable
+990928 TC 8 OK a lobt = 18h15mn54s nb=55748 (D9C4 hex)
+   @ 18(24) commande non interpretable
+990928 TC 9 OK a lobt = 19h38mn34s nb=55810 (DA02 hex)
+   @ D3(211) commande non interpretable
+991001 TC 10 OK a lobt = 15h33mn14s nb=58866 (E5F2 hex)
+   @ FA(250) commande non interpretable
+991129 TC 11 OK a lobt = 22h39mn54s nb=57370 (E01A hex)
+  4B$ GBCBCST select cell bulb constant heating and fix current value
+  parametre = 63104 (f680) 
+991129 TC 12 OK a lobt = 23h 7mn54s nb=57391 (E02F hex)
+   @ 1C(28) commande non interpretable
+991202 TC 13 OK a lobt = 23h59mn54s nb=60670 (ECFE hex)
+   @ F1(241) commande non interpretable
+991203 TC 14 OK a lobt = 0h21mn14s nb=60686 (ED0E hex)
+   @ 8F(143) commande non interpretable
+991206 TC 16 OK a lobt = 16h 6mn34s nb=64635 (FC7B hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+991206 TC 17 OK a lobt = 16h11mn54s nb=64639 (FC7F hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+991206 TC 18 OK a lobt = 16h13mn14s nb=64640 (FC80 hex)
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+991207 TC 19 OK a lobt = 16h14mn34s nb=185 (B9 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 68 (44) 
+991207 TC 20 OK a lobt = 16h15mn54s nb=186 (BA hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 70 (46) 
+991207 TC 21 OK a lobt = 16h19mn54s nb=189 (BD hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 64 (40) 
+991207 TC 22 OK a lobt = 16h21mn14s nb=190 (BE hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 66 (42) 
+991207 TC 23 OK a lobt = 16h23mn54s nb=192 (C0 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 64 (40) 
+991208 TC 24 OK a lobt = 15h27mn54s nb=1230 (4CE hex)
+   @ 8F(143) commande non interpretable
+000108 TC 25 OK a lobt = 1h 5mn14s nb=34063 (850F hex)
+   @ 1A(26) commande non interpretable
+000108 TC 26 OK a lobt = 1h39mn54s nb=34089 (8529 hex)
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+000208 TC 27 OK a lobt = 16h46mn34s nb=2713 (A99 hex)
+  2A GBQWTEC select quarter wave technical mode
+000512 TC 29 OK a lobt = 20h53mn14s nb=38882 (97E2 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 370 (172) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 370 (172) 
+001129 TC 30 OK a lobt = 16h21mn14s nb=59150 (E70E hex)
+   @ 8A(138) commande non interpretable
+001129 TC 31 OK a lobt = 16h50mn34s nb=59172 (E724 hex)
+   @ 91(145) commande non interpretable
+010115 TC 32 OK a lobt = 21h14mn34s nb=44594 (AE32 hex)
+   @ 92(146) commande non interpretable
+010115 TC 33 OK a lobt = 21h31mn54s nb=44607 (AE3F hex)
+  21 GBPM1FRE monitoring inhibit on pm1
+010516 TC 34 OK a lobt = 13h 9mn14s nb=43838 (AB3E hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+010516 TC 35 OK a lobt = 13h11mn54s nb=43840 (AB40 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+010516 TC 37 OK a lobt = 13h14mn34s nb=43842 (AB42 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+010517 TC 38 OK a lobt = 13h14mn34s nb=44922 (AF7A hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 64 (40) 
+010517 TC 39 OK a lobt = 13h37mn14s nb=44939 (AF8B hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 66 (42) 
+010517 TC 40 OK a lobt = 13h39mn54s nb=44941 (AF8D hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6245 (1865) 
+010517 TC 42 OK a lobt = 13h41mn14s nb=44942 (AF8E hex)
+  4A$ GBFIDUR filter step duration in scan mode
+  parametre = 720 (2d0) 
+  49$ GBFINB filter number of step in scan mode
+  parametre = 20 (14) 
+010517 TC 43 OK a lobt = 13h42mn34s nb=44943 (AF8F hex)
+  48$ GBFISTP filter step amplitude in regulation/scan mode
+  parametre = 180 (b4) 
+010517 TC 44 OK a lobt = 13h45mn14s nb=44945 (AF91 hex)
+  32 GBFISCN select filter scan mode
+010518 TC 45 OK a lobt = 15h25mn14s nb=46100 (B414 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 8000 (1f40) 
+010518 TC 46 OK a lobt = 15h42mn34s nb=46113 (B421 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6065 (17b1) 
+010522 TC 47 OK a lobt = 13h45mn14s nb=50345 (C4A9 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 4400 (1130) 
+010522 TC 48 OK a lobt = 13h54mn34s nb=50352 (C4B0 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 4 (4) 
+010523 TC 49 OK a lobt = 13h21mn14s nb=51407 (C8CF hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14940 (3a5c) 
+010523 TC 50 OK a lobt = 13h38mn34s nb=51420 (C8DC hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14980 (3a84) 
+010523 TC 51 OK a lobt = 13h49mn14s nb=51428 (C8E4 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14975 (3a7f) 
+010523 TC 52 OK a lobt = 13h55mn54s nb=51433 (C8E9 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14969 (3a79) 
+010523 TC 53 OK a lobt = 13h58mn34s nb=51435 (C8EB hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14967 (3a77) 
+010525 TC 54 OK a lobt = 12h55mn54s nb=53548 (D12C hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14969 (3a79) 
+010525 TC 55 OK a lobt = 13h 1mn14s nb=53552 (D130 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14975 (3a7f) 
+010525 TC 56 OK a lobt = 13h30mn34s nb=53574 (D146 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+010525 TC 57 OK a lobt = 13h49mn14s nb=53588 (D154 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6065 (17b1) 
+010729 TC 58 OK a lobt = 16h37mn14s nb=58378 (E40A hex)
+   @ C0(192) commande non interpretable
+010729 TC 59 OK a lobt = 16h58mn34s nb=58394 (E41A hex)
+   @ 91(145) commande non interpretable
+020209 TC 12 OK a lobt = 16h31mn10s nb=2094 (82E hex)
+  24 GBDOOP open the door
+  2F GBMMACT select magnetic modulation activated mode
+020209 TC 14 OK a lobt = 16h33mn50s nb=2096 (830 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6065 (17b1) 
+  4B$ GBCBCST select cell bulb constant heating and fix current value
+  parametre = 12192 (2fa0) 
+020209 TC 15 OK a lobt = 16h35mn10s nb=2097 (831 hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+020209 TC 16 OK a lobt = 16h36mn30s nb=2098 (832 hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+020209 TC 18 OK a lobt = 16h37mn50s nb=2099 (833 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 370 (172) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 370 (172) 
+020209 TC 19 OK a lobt = 16h39mn10s nb=2100 (834 hex)
+  5E$ GB8HDLAY load first delayed buffer retardation
+  parametre = 450 (1c2) 
+020209 TC 20 OK a lobt = 16h40mn30s nb=2101 (835 hex)
+  57$ GBSC1THR load science threshold discri for pm1
+  parametre = 64 (40) 
+020209 TC 21 OK a lobt = 16h43mn10s nb=2103 (837 hex)
+  57$ GBSC1THR load science threshold discri for pm1
+  parametre = 60 (3c) 
+020209 TC 22 OK a lobt = 16h44mn30s nb=2104 (838 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 64 (40) 
+020209 TC 23 OK a lobt = 16h45mn50s nb=2105 (839 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 66 (42) 
+020209 TC 24 OK a lobt = 16h47mn10s nb=2106 (83A hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 62 (3e) 
+020209 TC 25 OK a lobt = 16h49mn50s nb=2108 (83C hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+020209 TC 26 OK a lobt = 16h51mn10s nb=2109 (83D hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 60 (3c) 
+020209 TC 27 OK a lobt = 16h53mn50s nb=2111 (83F hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 59 (3b) 
+021025 TC 28 OK a lobt = 16h 3mn10s nb=18569 (4889 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 29 OK a lobt = 16h 7mn10s nb=18572 (488C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 30 OK a lobt = 16h11mn10s nb=18575 (488F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 31 OK a lobt = 16h13mn50s nb=18577 (4891 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 33 OK a lobt = 16h15mn10s nb=18578 (4892 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 34 OK a lobt = 16h17mn50s nb=18580 (4894 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 35 OK a lobt = 16h19mn10s nb=18581 (4895 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 36 OK a lobt = 16h20mn30s nb=18582 (4896 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 1807 (70f) 
+021025 TC 37 OK a lobt = 17h52mn30s nb=18651 (48DB hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 1990 (7c6) 
+021025 TC 38 OK a lobt = 17h55mn10s nb=18653 (48DD hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2010 (7da) 
+021025 TC 39 OK a lobt = 17h59mn10s nb=18656 (48E0 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 40 OK a lobt = 18h 1mn50s nb=18658 (48E2 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 41 OK a lobt = 18h 4mn30s nb=18660 (48E4 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2600 (a28) 
+021025 TC 42 OK a lobt = 18h 7mn10s nb=18662 (48E6 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2800 (af0) 
+021025 TC 43 OK a lobt = 18h 8mn30s nb=18663 (48E7 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 3000 (bb8) 
+021025 TC 44 OK a lobt = 18h11mn10s nb=18665 (48E9 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 3220 (c94) 
+021025 TC 45 OK a lobt = 18h12mn30s nb=18666 (48EA hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 3620 (e24) 
+021025 TC 46 OK a lobt = 18h15mn10s nb=18668 (48EC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4020 (fb4) 
+021025 TC 47 OK a lobt = 18h20mn30s nb=18672 (48F0 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2000 (7d0) 
+021025 TC 48 OK a lobt = 18h23mn10s nb=18674 (48F2 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2000 (7d0) 
+021025 TC 49 OK a lobt = 18h24mn30s nb=18675 (48F3 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2000 (7d0) 
+021025 TC 50 OK a lobt = 18h25mn50s nb=18676 (48F4 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2000 (7d0) 
+021025 TC 51 OK a lobt = 18h28mn30s nb=18678 (48F6 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2000 (7d0) 
+021025 TC 52 OK a lobt = 18h31mn10s nb=18680 (48F8 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 53 OK a lobt = 18h33mn50s nb=18682 (48FA hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 54 OK a lobt = 18h35mn10s nb=18683 (48FB hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 55 OK a lobt = 18h36mn30s nb=18684 (48FC hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 56 OK a lobt = 18h39mn10s nb=18686 (48FE hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 57 OK a lobt = 18h40mn30s nb=18687 (48FF hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 58 OK a lobt = 18h41mn50s nb=18688 (4900 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 59 OK a lobt = 18h44mn30s nb=18690 (4902 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 60 OK a lobt = 18h45mn50s nb=18691 (4903 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 61 OK a lobt = 18h47mn10s nb=18692 (4904 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 62 OK a lobt = 18h48mn30s nb=18693 (4905 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 63 OK a lobt = 18h49mn50s nb=18694 (4906 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 64 OK a lobt = 18h51mn10s nb=18695 (4907 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 65 OK a lobt = 18h52mn30s nb=18696 (4908 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 66 OK a lobt = 18h53mn50s nb=18697 (4909 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 67 OK a lobt = 18h55mn10s nb=18698 (490A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 68 OK a lobt = 18h56mn30s nb=18699 (490B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 69 OK a lobt = 18h57mn50s nb=18700 (490C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 70 OK a lobt = 18h59mn10s nb=18701 (490D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 71 OK a lobt = 19h 0mn30s nb=18702 (490E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 72 OK a lobt = 19h 1mn50s nb=18703 (490F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 73 OK a lobt = 19h 3mn10s nb=18704 (4910 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 74 OK a lobt = 19h 4mn30s nb=18705 (4911 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 75 OK a lobt = 19h 5mn50s nb=18706 (4912 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 76 OK a lobt = 19h 9mn50s nb=18709 (4915 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 78 OK a lobt = 19h12mn30s nb=18711 (4917 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 79 OK a lobt = 19h13mn50s nb=18712 (4918 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 80 OK a lobt = 19h15mn10s nb=18713 (4919 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 81 OK a lobt = 19h16mn30s nb=18714 (491A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 82 OK a lobt = 19h17mn50s nb=18715 (491B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 83 OK a lobt = 19h19mn10s nb=18716 (491C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 85 OK a lobt = 19h21mn50s nb=18718 (491E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 86 OK a lobt = 19h23mn10s nb=18719 (491F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 87 OK a lobt = 19h24mn30s nb=18720 (4920 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 88 OK a lobt = 19h25mn50s nb=18721 (4921 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 89 OK a lobt = 19h27mn10s nb=18722 (4922 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 90 OK a lobt = 19h28mn30s nb=18723 (4923 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 91 OK a lobt = 19h29mn50s nb=18724 (4924 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 93 OK a lobt = 20h15mn10s nb=18758 (4946 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 94 OK a lobt = 20h16mn30s nb=18759 (4947 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 95 OK a lobt = 20h17mn50s nb=18760 (4948 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 96 OK a lobt = 20h19mn10s nb=18761 (4949 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 97 OK a lobt = 20h20mn30s nb=18762 (494A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 98 OK a lobt = 20h21mn50s nb=18763 (494B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 99 OK a lobt = 20h23mn10s nb=18764 (494C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 100 OK a lobt = 20h24mn30s nb=18765 (494D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 101 OK a lobt = 20h25mn50s nb=18766 (494E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 103 OK a lobt = 20h27mn10s nb=18767 (494F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 104 OK a lobt = 20h28mn30s nb=18768 (4950 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 105 OK a lobt = 20h29mn50s nb=18769 (4951 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 106 OK a lobt = 20h31mn10s nb=18770 (4952 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 107 OK a lobt = 20h32mn30s nb=18771 (4953 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 108 OK a lobt = 20h33mn50s nb=18772 (4954 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 109 OK a lobt = 20h35mn10s nb=18773 (4955 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 110 OK a lobt = 20h36mn30s nb=18774 (4956 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 111 OK a lobt = 20h37mn50s nb=18775 (4957 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 112 OK a lobt = 20h39mn10s nb=18776 (4958 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4348 (10fc) 
+021025 TC 113 OK a lobt = 20h40mn30s nb=18777 (4959 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 114 OK a lobt = 20h44mn30s nb=18780 (495C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 4348 (10fc) 
+021025 TC 115 OK a lobt = 20h45mn50s nb=18781 (495D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 116 OK a lobt = 20h47mn10s nb=18782 (495E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 117 OK a lobt = 20h48mn30s nb=18783 (495F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 118 OK a lobt = 20h49mn50s nb=18784 (4960 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 119 OK a lobt = 20h51mn10s nb=18785 (4961 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 120 OK a lobt = 20h52mn30s nb=18786 (4962 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 121 OK a lobt = 20h53mn50s nb=18787 (4963 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 122 OK a lobt = 20h59mn10s nb=18791 (4967 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 123 OK a lobt = 21h 3mn10s nb=18794 (496A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 124 OK a lobt = 21h 4mn30s nb=18795 (496B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 125 OK a lobt = 21h 5mn50s nb=18796 (496C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 126 OK a lobt = 21h 7mn10s nb=18797 (496D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 127 OK a lobt = 21h 8mn30s nb=18798 (496E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 128 OK a lobt = 21h 9mn50s nb=18799 (496F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 129 OK a lobt = 21h11mn10s nb=18800 (4970 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 130 OK a lobt = 21h12mn30s nb=18801 (4971 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 131 OK a lobt = 21h13mn50s nb=18802 (4972 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 132 OK a lobt = 21h15mn10s nb=18803 (4973 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 133 OK a lobt = 21h20mn30s nb=18807 (4977 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 135 OK a lobt = 21h21mn50s nb=18808 (4978 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 136 OK a lobt = 21h24mn30s nb=18810 (497A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 137 OK a lobt = 21h25mn50s nb=18811 (497B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 138 OK a lobt = 21h27mn10s nb=18812 (497C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 139 OK a lobt = 21h28mn30s nb=18813 (497D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 140 OK a lobt = 21h29mn50s nb=18814 (497E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 141 OK a lobt = 21h31mn10s nb=18815 (497F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2400 (960) 
+021025 TC 142 OK a lobt = 21h32mn30s nb=18816 (4980 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 143 OK a lobt = 21h33mn50s nb=18817 (4981 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 144 OK a lobt = 21h35mn10s nb=18818 (4982 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 145 OK a lobt = 21h36mn30s nb=18819 (4983 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 146 OK a lobt = 21h37mn50s nb=18820 (4984 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2000 (7d0) 
+021025 TC 147 OK a lobt = 21h39mn10s nb=18821 (4985 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2010 (7da) 
+021025 TC 148 OK a lobt = 21h41mn50s nb=18823 (4987 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2010 (7da) 
+021025 TC 149 OK a lobt = 21h43mn10s nb=18824 (4988 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2020 (7e4) 
+021025 TC 150 OK a lobt = 21h44mn30s nb=18825 (4989 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2020 (7e4) 
+021025 TC 151 OK a lobt = 21h45mn50s nb=18826 (498A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2020 (7e4) 
+021025 TC 152 OK a lobt = 21h47mn10s nb=18827 (498B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2020 (7e4) 
+021025 TC 153 OK a lobt = 21h48mn30s nb=18828 (498C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2020 (7e4) 
+021025 TC 154 OK a lobt = 21h49mn50s nb=18829 (498D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2025 (7e9) 
+021025 TC 155 OK a lobt = 21h51mn10s nb=18830 (498E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2025 (7e9) 
+021025 TC 156 OK a lobt = 21h52mn30s nb=18831 (498F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2025 (7e9) 
+021025 TC 157 OK a lobt = 21h53mn50s nb=18832 (4990 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2025 (7e9) 
+021025 TC 158 OK a lobt = 21h55mn10s nb=18833 (4991 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2025 (7e9) 
+021025 TC 160 OK a lobt = 21h57mn50s nb=18835 (4993 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2025 (7e9) 
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 161 OK a lobt = 21h59mn10s nb=18836 (4994 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 162 OK a lobt = 22h 0mn30s nb=18837 (4995 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 163 OK a lobt = 22h 1mn50s nb=18838 (4996 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 164 OK a lobt = 22h 3mn10s nb=18839 (4997 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 165 OK a lobt = 22h 4mn30s nb=18840 (4998 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 166 OK a lobt = 22h 5mn50s nb=18841 (4999 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 167 OK a lobt = 22h 7mn10s nb=18842 (499A hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 168 OK a lobt = 22h 8mn30s nb=18843 (499B hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 169 OK a lobt = 22h 9mn50s nb=18844 (499C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 170 OK a lobt = 22h11mn10s nb=18845 (499D hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 171 OK a lobt = 22h12mn30s nb=18846 (499E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 172 OK a lobt = 22h13mn50s nb=18847 (499F hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 173 OK a lobt = 22h15mn10s nb=18848 (49A0 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 174 OK a lobt = 22h16mn30s nb=18849 (49A1 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 175 OK a lobt = 22h17mn50s nb=18850 (49A2 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 176 OK a lobt = 22h19mn10s nb=18851 (49A3 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2300 (8fc) 
+021025 TC 177 OK a lobt = 22h20mn30s nb=18852 (49A4 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2200 (898) 
+021025 TC 178 OK a lobt = 22h23mn10s nb=18854 (49A6 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 2809 (af9) 
+021025 TC 179 OK a lobt = 22h25mn50s nb=18856 (49A8 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 5044 (13b4) 
+021025 TC 180 OK a lobt = 22h31mn10s nb=18860 (49AC hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 76 (4c) 
+021025 TC 181 OK a lobt = 22h33mn50s nb=18862 (49AE hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+021026 TC 182 OK a lobt = 14h27mn10s nb=19577 (4C79 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 3065 (bf9) 
+021026 TC 183 OK a lobt = 14h29mn50s nb=19579 (4C7B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 5300 (14b4) 
+021026 TC 184 OK a lobt = 14h31mn10s nb=19580 (4C7C hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 3321 (cf9) 
+021026 TC 185 OK a lobt = 14h32mn30s nb=19581 (4C7D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 5556 (15b4) 
+021026 TC 186 OK a lobt = 14h33mn50s nb=19582 (4C7E hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 3577 (df9) 
+021026 TC 187 OK a lobt = 14h35mn10s nb=19583 (4C7F hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 5812 (16b4) 
+021026 TC 188 OK a lobt = 14h36mn30s nb=19584 (4C80 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 3833 (ef9) 
+021026 TC 189 OK a lobt = 14h37mn50s nb=19585 (4C81 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 6068 (17b4) 
+021026 TC 191 OK a lobt = 14h40mn30s nb=19587 (4C83 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 4089 (ff9) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 6324 (18b4) 
+021026 TC 192 OK a lobt = 14h41mn50s nb=19588 (4C84 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 4345 (10f9) 
+021026 TC 193 OK a lobt = 14h43mn10s nb=19589 (4C85 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 6580 (19b4) 
+021026 TC 194 OK a lobt = 14h44mn30s nb=19590 (4C86 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 4601 (11f9) 
+021026 TC 195 OK a lobt = 14h45mn50s nb=19591 (4C87 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 6836 (1ab4) 
+021026 TC 196 OK a lobt = 14h47mn10s nb=19592 (4C88 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 4857 (12f9) 
+021026 TC 197 OK a lobt = 14h48mn30s nb=19593 (4C89 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 7092 (1bb4) 
+021028 TC 198 OK a lobt = 14h27mn10s nb=21737 (54E9 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 59 (3b) 
+021028 TC 199 OK a lobt = 14h31mn10s nb=21740 (54EC hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 58 (3a) 
+021028 TC 200 OK a lobt = 14h35mn10s nb=21743 (54EF hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 56 (38) 
+021028 TC 201 OK a lobt = 14h39mn10s nb=21746 (54F2 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+021031 TC 202 OK a lobt = 14h48mn30s nb=24993 (61A1 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+021031 TC 203 OK a lobt = 14h49mn50s nb=24994 (61A2 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+021031 TC 204 OK a lobt = 15h 7mn10s nb=25007 (61AF hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+021031 TC 205 OK a lobt = 15h 9mn50s nb=25009 (61B1 hex)
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+021101 TC 206 OK a lobt = 16h41mn50s nb=26158 (662E hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+021101 TC 207 OK a lobt = 16h44mn30s nb=26160 (6630 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+021118 TC 208 OK a lobt = 19h45mn50s nb=44656 (AE70 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 209 OK a lobt = 19h49mn50s nb=44659 (AE73 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 210 OK a lobt = 19h52mn30s nb=44661 (AE75 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 211 OK a lobt = 19h53mn50s nb=44662 (AE76 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 212 OK a lobt = 19h55mn10s nb=44663 (AE77 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 213 OK a lobt = 19h56mn30s nb=44664 (AE78 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 214 OK a lobt = 20h 0mn30s nb=44667 (AE7B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 215 OK a lobt = 20h 3mn10s nb=44669 (AE7D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 216 OK a lobt = 20h 4mn30s nb=44670 (AE7E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 217 OK a lobt = 20h 5mn50s nb=44671 (AE7F hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 218 OK a lobt = 20h 7mn10s nb=44672 (AE80 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 219 OK a lobt = 20h 8mn30s nb=44673 (AE81 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 220 OK a lobt = 20h 9mn50s nb=44674 (AE82 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 222 OK a lobt = 20h11mn10s nb=44675 (AE83 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 223 OK a lobt = 20h12mn30s nb=44676 (AE84 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 224 OK a lobt = 20h13mn50s nb=44677 (AE85 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+021118 TC 225 OK a lobt = 20h15mn10s nb=44678 (AE86 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 226 OK a lobt = 20h16mn30s nb=44679 (AE87 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 227 OK a lobt = 20h17mn50s nb=44680 (AE88 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 228 OK a lobt = 20h19mn10s nb=44681 (AE89 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 229 OK a lobt = 20h20mn30s nb=44682 (AE8A hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 230 OK a lobt = 20h21mn50s nb=44683 (AE8B hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 231 OK a lobt = 20h23mn10s nb=44684 (AE8C hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8000 (1f40) 
+021118 TC 232 OK a lobt = 20h24mn30s nb=44685 (AE8D hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8001 (1f41) 
+021118 TC 233 OK a lobt = 20h25mn50s nb=44686 (AE8E hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8002 (1f42) 
+021118 TC 235 OK a lobt = 20h29mn50s nb=44689 (AE91 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8003 (1f43) 
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 8100 (1fa4) 
+021118 TC 236 OK a lobt = 20h32mn30s nb=44691 (AE93 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+030520 TC 1 OK a lobt = 17h10mn31s nb=10 (A hex)
+030520 TC 2 OK a lobt = 17h11mn51s nb=11 (B hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 8192 (2000) 
+030520 TC 3 OK a lobt = 17h13mn11s nb=12 (C hex)
+  2C GBMMON magnetic modulation on
+030520 TC 4 OK a lobt = 17h15mn51s nb=14 (E hex)
+  4B$ GBCBCST select cell bulb constant heating and fix current value
+  parametre = 12288 (3000) 
+030520 TC 8 OK a lobt = 17h17mn11s nb=15 (F hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 90 (5a) 
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 50 (32) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 90 (5a) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 126 (7e) 
+030520 TC 9 OK a lobt = 17h19mn51s nb=17 (11 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 4858 (12fa) 
+030520 TC 10 OK a lobt = 17h21mn11s nb=18 (12 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 948 (3b4) 
+030521 TC 11 OK a lobt = 13h 3mn10s nb=904 (388 hex)
+  44$ GBFICST select filter constant heating and fix current value
+  parametre = 6065 (17b1) 
+030521 TC 13 OK a lobt = 13h 5mn50s nb=906 (38A hex)
+  4B$ GBCBCST select cell bulb constant heating and fix current value
+  parametre = 12192 (2fa0) 
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+030521 TC 14 OK a lobt = 13h 7mn10s nb=907 (38B hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+030521 TC 16 OK a lobt = 13h15mn10s nb=913 (391 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 370 (172) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 370 (172) 
+030521 TC 17 OK a lobt = 13h27mn10s nb=922 (39A hex)
+  5E$ GB8HDLAY load first delayed buffer retardation
+  parametre = 450 (1c2) 
+030521 TC 18 OK a lobt = 13h28mn30s nb=923 (39B hex)
+  57$ GBSC1THR load science threshold discri for pm1
+  parametre = 60 (3c) 
+030521 TC 19 OK a lobt = 13h29mn50s nb=924 (39C hex)
+  58$ GBSC2THR load science threshold discri for pm2
+  parametre = 60 (3c) 
+030521 TC 21 OK a lobt = 13h31mn10s nb=925 (39D hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+030521 TC 23 OK a lobt = 13h32mn30s nb=926 (39E hex)
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+030521 TC 24 OK a lobt = 13h33mn50s nb=927 (39F hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+030521 TC 25 OK a lobt = 13h43mn10s nb=934 (3A6 hex)
+  64$ GBPOFIX polarizer moved to fixed position
+  parametre = 6906 (1afa) 
+030521 TC 26 OK a lobt = 13h47mn10s nb=937 (3A9 hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2996 (bb4) 
+030521 TC 27 OK a lobt = 13h51mn10s nb=940 (3AC hex)
+  65$ GBQWFIX quarter wave moved to fixed position
+  parametre = 2996 (bb4) 
+030523 TC 28 OK a lobt = 18h36mn30s nb=3314 (CF2 hex)
+  2F GBMMACT select magnetic modulation activated mode
+030523 TC 29 OK a lobt = 18h37mn50s nb=3315 (CF3 hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+030708 TC 30 OK a lobt = 8h45mn50s nb=52551 (CD47 hex)
+  2E GBMM-I magnetic coil excitation constant negative
+030708 TC 31 OK a lobt = 14h31mn10s nb=52810 (CE4A hex)
+   @ 80(128) commande non interpretable
+030714 TC 33 OK a lobt = 18h44mn31s nb=59479 (E857 hex)
+  24 GBDOOP open the door
+   @ A4(164) commande non interpretable
+040305 TC 34 OK a lobt = 17h 3mn11s nb=51059 (C773 hex)
+  5E$ GB8HDLAY load first delayed buffer retardation
+  parametre = 576 (240) 
+040421 TC 35 OK a lobt = 12h52mn31s nb=36094 (8CFE hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+040422 TC 36 OK a lobt = 10h31mn46s nb=37069 (90CD hex)
+   @ 93(147) commande non interpretable
+040422 TC 37 OK a lobt = 16h29mn 6s nb=37337 (91D9 hex)
+   @ 93(147) commande non interpretable
+040831 TC 39 OK a lobt = 16h13mn 6s nb=47733 (BA75 hex)
+  5E$ GB8HDLAY load first delayed buffer retardation
+  parametre = 360 (168) 
+040905 TC 40 OK a lobt = 8h26mn26s nb=52783 (CE2F hex)
+   @ 8C(140) commande non interpretable
+041209 TC 41 OK a lobt = 21h29mn 6s nb=24898 (6142 hex)
+   @ B3(179) commande non interpretable
+050413 TC 43 OK a lobt = 14h22mn26s nb=28506 (6F5A hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+050413 TC 45 OK a lobt = 14h26mn26s nb=28509 (6F5D hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+050418 TC 47 OK a lobt = 14h42mn26s nb=33921 (8481 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+050422 TC 49 OK a lobt = 16h39mn46s nb=38329 (95B9 hex)
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 490 (1ea) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 470 (1d6) 
+050518 TC 51 OK a lobt = 15h 1mn 6s nb=799 (31F hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+050518 TC 53 OK a lobt = 15h11mn46s nb=807 (327 hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+050530 TC 54 OK a lobt = 15h29mn 6s nb=13780 (35D4 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+050530 TC 55 OK a lobt = 15h33mn 6s nb=13783 (35D7 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+050530 TC 56 OK a lobt = 15h37mn 6s nb=13786 (35DA hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 59 (3b) 
+050530 TC 57 OK a lobt = 15h41mn 6s nb=13789 (35DD hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+070127 TC 4 OK a lobt = 14h44mn 0s nb=5 (5 hex)
+070127 TC 8 OK a lobt = 14h45mn20s nb=6 (6 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+  55$ GBHV1ON high voltage pm1 turned on, value to par
+  parametre = 490 (1ea) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 470 (1d6) 
+070129 TC 9 OK a lobt = 16h47mn10s nb=2257 (8D1 hex)
+  2F GBMMACT select magnetic modulation activated mode
+070129 TC 10 OK a lobt = 16h49mn50s nb=2259 (8D3 hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+070129 TC 11 OK a lobt = 16h51mn10s nb=2260 (8D4 hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+070129 TC 12 OK a lobt = 16h53mn50s nb=2262 (8D6 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+070129 TC 13 OK a lobt = 16h57mn50s nb=2265 (8D9 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 150 (96) 
+070129 TC 14 OK a lobt = 16h59mn10s nb=2266 (8DA hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 150 (96) 
+070129 TC 18 OK a lobt = 17h 7mn10s nb=2272 (8E0 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+070411 TC 19 OK a lobt = 13h57mn50s nb=14354 (3812 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+070411 TC 20 OK a lobt = 14h 0mn30s nb=14356 (3814 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+071209 TC 21 OK a lobt = 10h56mn30s nb=13434 (347A hex)
+   @ 7D(125) commande non interpretable
+071210 TC 22 OK a lobt = 18h13mn55s nb=14842 (39FA hex)
+   @ C4(196) commande non interpretable
+080306 TC 8 OK a lobt = 16h45mn20s nb=8 (8 hex)
+080310 TC 9 OK a lobt = 13h45mn50s nb=4193 (1061 hex)
+  2F GBMMACT select magnetic modulation activated mode
+080310 TC 10 OK a lobt = 13h47mn10s nb=4194 (1062 hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+080310 TC 11 OK a lobt = 13h51mn10s nb=4197 (1065 hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+080310 TC 12 OK a lobt = 13h53mn50s nb=4199 (1067 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+080310 TC 13 OK a lobt = 13h56mn30s nb=4201 (1069 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+080310 TC 14 OK a lobt = 13h57mn50s nb=4202 (106A hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+080310 TC 15 OK a lobt = 14h 0mn30s nb=4204 (106C hex)
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+080310 TC 16 OK a lobt = 14h 1mn50s nb=4205 (106D hex)
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+090921 TC 6 OK a lobt = 16h35mn10s nb=6 (6 hex)
+090921 TC 8 OK a lobt = 16h36mn27s nb=7 (7 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+  56$ GBHV2ON high voltage pm2 turned on, value to par
+  parametre = 470 (1d6) 
+090922 TC 9 OK a lobt = 12h47mn10s nb=915 (393 hex)
+  2F GBMMACT select magnetic modulation activated mode
+090922 TC 11 OK a lobt = 12h49mn50s nb=917 (395 hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+090922 TC 12 OK a lobt = 12h52mn30s nb=919 (397 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+090922 TC 14 OK a lobt = 12h53mn50s nb=920 (398 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+090922 TC 16 OK a lobt = 12h56mn30s nb=922 (39A hex)
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+100311 TC 17 OK a lobt = 15h19mn10s nb=53557 (D135 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+100311 TC 18 OK a lobt = 15h21mn50s nb=53559 (D137 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+110105 TC 9 OK a lobt = 0h 4mn30s nb=8014 (1F4E hex)
+  2F GBMMACT select magnetic modulation activated mode
+110105 TC 10 OK a lobt = 0h 5mn50s nb=8015 (1F4F hex)
+  4E$ GBCBGRAD cell-bulb minimum gradient
+  parametre = 103 (67) 
+110105 TC 11 OK a lobt = 0h 8mn30s nb=8017 (1F51 hex)
+  1F   GBCSMON     Enable Cell bulb/Stem minimum gradient monitor
+110105 TC 12 OK a lobt = 0h11mn10s nb=8019 (1F53 hex)
+  4C$ GBCSCST select cell stem constant heating and fix current value
+  parametre = 14928 (3a50) 
+110105 TC 13 OK a lobt = 0h13mn50s nb=8021 (1F55 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+110105 TC 14 OK a lobt = 0h16mn30s nb=8023 (1F57 hex)
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 58 (3a) 
+110105 TC 15 OK a lobt = 0h19mn10s nb=8025 (1F59 hex)
+  62$ GBSP1END load max spectre threshold discri for pm1, scan mode
+  parametre = 150 (96) 
+110105 TC 16 OK a lobt = 0h21mn50s nb=8027 (1F5B hex)
+  63$ GBSP2END load max spectre threshold discri for pm2, scan mode 
+  parametre = 150 (96) 
+120206 TC 18 OK a lobt = 16h 9mn50s nb=44282 (ACFA hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 6 (6) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 6 (6) 
+120206 TC 20 OK a lobt = 16h11mn10s nb=44283 (ACFB hex)
+  39 GBSP1SCN select pm1 spectre discri to scan mode
+  3A GBSP2SCN select pm2 spectre discri to scan mode
+120221 TC 22 OK a lobt = 14h53mn50s nb=60425 (EC09 hex)
+  59$ GBSP1THR load spectre threshold discri for pm1, constant mode
+  parametre = 55 (37) 
+  5A$ GBSP2THR load spectre threshold discri for pm2, constant mode
+  parametre = 60 (3c) 
+120510 TC 22 OK a lobt = 10h 0mn30s nb=14453 (3875 hex)
+120511 TC 23 OK a lobt = 23h 8mn30s nb=16124 (3EFC hex)
+  @ D9(217) commande non interpretable
+140306 TC 24 OK a lobt = 18h15mn59s  nb=12128 (2f60 hex)
+  55$ GBHV1ON  high voltage pm1 turned on, value to par
+  parametre = 592 ( 250) 
+140306 TC 25 OK a lobt = 18h17mn19s  nb=12129 (2f61 hex)
+  56$ GBHV2ON  high voltage pm2 turned on, value to par
+  parametre = 636 ( 27c)
+141123 TC 0 OK a lobt = 18h10mn39s  nb=2 (2 hex)
+141126 TC 1 OK a lobt = 17h12mn18s  nb=3198 (c7e hex)
+  2C GBMMON magnetic modulation on
+141126 TC 2 OK a lobt = 18h32mn18s  nb=3258 (cba hex)
+  2F GBMMACT select magnetic modulation activated mode
+

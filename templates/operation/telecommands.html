@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Telecommands chronology - GOLF (SOHO) Home page</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+		<link rel="stylesheet" href="../../assets/css/responsive_table.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
+		
+		 
+	</head>
+	<body class="">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header" class="header2"></div>
+
+				<div class="wrapper style1">
+					<div class="container">
+							<article id="main">
+								<header>
+									<h2>GOLF Operation - Telecommands chronology</h2>
+									<p>Here is the list of telecommands sent to GOLF, starting in April 1996.</p>
+
+								</header>
+								<table class="responsive">
+									<tbody id="commandlist">
+										
+									</tbody>
+								</table>
+							</article>	
+					</div>
+				</div>
+
+
+
+				<div id="backtotop">
+					<a href="#header" class="button  circled scrolly">Top</a>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer"></div>
+
+		<!-- Scripts -->
+			<script src="../../assets/js/jquery.min.js"></script>
+			<script src="../../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../../assets/js/jquery.onvisible.min.js"></script>
+			<script src="../../assets/js/skel.min.js"></script>
+			<script src="../../assets/js/util.js"></script>
+			
+			
+			
+			<script>
+				$.get('../../assets/data/GOLF_telecommandes_wordpad.txt', function(data) {
+		  			var fileContents = data.split('\n');
+		  			var tableContents = '<tr><th>Date</th><th>NB</th><th>lobt</th><th>nb</th><th>Command</th><th>Parametre</th></tr>';
+		  			var lineContents = '';
+		  			var lineArray = [];
+		  			for (var i=0; i<fileContents.length; i++){
+		  				
+		  				if (fileContents[i].indexOf("TC") > -1 && fileContents[i].indexOf("OK") > -1 && fileContents[i].indexOf("hex") > -1) {
+		  					if (i > 0) {
+		  						/*if (lineArray.length == 4) {
+		  							lineArray.push('-');
+		  							lineArray.push('-');
+		  						}
+		  						if (lineArray.length == 5) {
+		  							lineArray.push('-');
+		  						}*/
+		  						for (var j=0; j<lineArray.length; j++) {
+		  							if (lineArray[j] == ''){
+		  								lineArray[j] = '-';
+		  							}
+		  						}
+		  						if (lineArray.length == 6) {
+			  						lineContents = '<tr><td>' + lineArray.join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  					}
+			  					if (lineArray.length == 12) {
+			  						lineContents = '<tr><td>' + lineArray.slice(0,7).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  						lineContents = '<tr><td>' + lineArray.slice(6,12).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  					}
+			  					if (lineArray.length == 18) {
+			  						lineContents = '<tr><td>' + lineArray.slice(0,6).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  						lineContents = '<tr><td>' + lineArray.slice(6,12).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  						lineContents = '<tr><td>' + lineArray.slice(12,18).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  					}
+			  					if (lineArray.length == 24) {
+			  						lineContents = '<tr><td>' + lineArray.slice(0,6).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  						lineContents = '<tr><td>' + lineArray.slice(6,12).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  						lineContents = '<tr><td>' + lineArray.slice(12,18).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  						lineContents = '<tr><td>' + lineArray.slice(18,24).join('</td><td>') + '</td></tr>'
+			  						tableContents += lineContents + '</tr>';
+			  					}
+		  						lineArray = [];
+		  					}
+		  					var elems = fileContents[i].split(' ');
+		  					var elems2 = fileContents[i].split('=');
+		  					lineArray.push(elems[0]);
+		  					lineArray.push(elems[2]);
+		  					lineArray.push(elems2[1].substring(0, elems2[1].length-2));
+		  					lineArray.push(elems2[2]);
+		  					//lineContents = '<tr>';
+		  					//lineContents += '<td>' + elems[0] + '</td>';
+		  					//lineContents += '<td>' + elems[2] + '</td>';
+		  					//lineContents += '<td>' + elems2[1].substring(0, elems2[1].length-2) + '</td>';
+		  					//lineContents += '<td>' + elems2[2] + '</td>';
+
+		  				}
+		  				if (fileContents[i].indexOf("=") == -1) {
+		  					if (lineArray.length < 5){
+		  						lineArray.push(fileContents[i]);
+		  						lineArray.push('');
+		  						//lineContents += '<td>' + fileContents[i] + '</td>';
+		  					}
+		  					else {
+		  						lineArray.push('');
+		  						lineArray.push('');
+		  						lineArray.push('');
+		  						lineArray.push('');
+		  						lineArray.push(fileContents[i]);
+		  						lineArray.push('');
+		  						//lineArray[4] += /*'<br/>' +*/ fileContents[i];
+		  					}
+		  					//var elems = fileContents[i].split('');
+		  					
+		  				}
+		  				if (fileContents[i].indexOf("parametre") > -1) {
+		  					var elems = fileContents[i].split('=');
+		  					if (lineArray.length == 6){
+		  						lineArray[5] += elems[1];
+		  					}
+		  					if (lineArray.length == 12){
+		  						lineArray[11] += elems[1];
+		  					}
+		  					if (lineArray.length == 18){
+		  						lineArray[17] += elems[1];
+		  					}
+		  					if (lineArray.length == 24){
+		  						lineArray[23] += elems[1];
+		  					}
+		  					
+		  				}
+		  			}
+		  			//fileContents = fileContents.join("<br/>"); 
+		  			$("#commandlist").html(tableContents);
+		  		});
+			</script>
+			
+			<script src="../../assets/js/main.js"></script>
+			<script src="../../assets/js/responsive-table.js"></script>
+	</body>
+</html>

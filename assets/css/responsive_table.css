@@ -1,72 +1,56 @@
-.rwd-table {
-  margin: 1em 0;
-  min-width: 300px;
-  max-width: 1060px;
-}
-.rwd-table tr {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-}
-.rwd-table th {
-  display: none;
-}
-.rwd-table td {
-  display: block;
-}
-.rwd-table td:first-child {
-  padding-top: .5em;
-}
-.rwd-table td:last-child {
-  padding-bottom: .5em;
-}
-.rwd-table td:before {
-  content: attr(data-th) ": ";
-  font-weight: bold;
-  width: 6.5em;
-  display: inline-block;
-}
-@media (min-width: 480px) {
-  .rwd-table td:before {
-    display: none;
-  }
-}
-.rwd-table th, .rwd-table td {
-  text-align: left;
-}
-@media (min-width: 480px) {
-  .rwd-table th, .rwd-table td {
-    display: table-cell;
-    padding: .25em .5em;
-  }
-  .rwd-table th:first-child, .rwd-table td:first-child {
-    padding-left: 0;
-  }
-  .rwd-table th:last-child, .rwd-table td:last-child {
-    padding-right: 0;
-  }
-}
 
-.rwd-table {
-  background: white;
-  !color: #fff;
-  !border-radius: .4em;
-  overflow: hidden;
-  !font-size: 1.25em;
-  !font-weight: 400;
+table th {
+    font-weight: bold;
 }
-.rwd-table tr {
-  !border-color: #46627f;
+table td, table th {
+    padding: 9px 10px;
+    text-align: left;
 }
-.rwd-table th, .rwd-table td {
-  margin: .5em 1em;
+@media only screen and (max-width: 767px) {
+table.responsive {
+    margin-bottom: 0;
 }
-@media (min-width: 480px) {
-  .rwd-table th, .rwd-table td {
-    padding: 1em !important;
-  }
+.pinned {
+    background: none repeat scroll 0 0 #fff;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    left: 0;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    position: absolute;
+    top: 0;
+    width: 35%;
 }
-.rwd-table th, .rwd-table td:before {
-  !color: #dd5;
-  !font-size: 1.25em;
-  font-weight: 400;
+.pinned table {
+    border-left: medium none;
+    border-right: medium none;
+    width: 100%;
+}
+.pinned table th, .pinned table td {
+    white-space: nowrap;
+}
+.pinned td:last-child {
+    border-bottom: 0 none;
+}
+div.table-wrapper {
+    border-right: 1px solid #ccc;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+}
+div.table-wrapper div.scrollable table {
+    margin-left: 35%;
+}
+div.table-wrapper div.scrollable {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+table.responsive td, table.responsive th {
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+}
+table.responsive th:first-child, table.responsive td:first-child, table.responsive td:first-child, table.responsive.pinned td {
+    display: none;
+}
 }

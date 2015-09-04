@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Access data - GOLF (SOHO) Home page</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<link rel="stylesheet" href="../assets/css/responsive_table.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
+		
+		 
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header" class="header2"></div>
+			<!-- Main -->
+				<div class="wrapper style1">
+
+					<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<hr />
+								<section>
+									<header>
+										<h3>Online information links relevant to the analysis of the data</h3>
+									</header>
+									<ul>
+										<li>
+											<h4>Instrument/hardware description:</h4>
+											<ul class="coollist2">
+												<li>
+													<a href="../assets/documents/paper_descrip.ps.Z">Solar Physics paper describing the instrument</a> (PS format)
+												</li>
+												<li>
+													First results: <a href="../assets/documents/paper_gabriel.ps.Z">Gabriel et al. 1997</a>
+												</li>
+												<li>
+													<a href="operation/ope_chrone.html">Operations since the launch</a>
+												</li>
+											</ul>
+										</li>
+										<li>
+											<h4>Reference library:</h4>
+											<ul class="coollist2">
+												<li>
+													<a href="#">GOLF related publications</a>
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+								<hr />	
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+								<article id="main">
+									<header>
+										<h2>How to access GOLF data</h2>
+									</header>
+									<p>
+										The GOLF team is anxious to encourage any scientists wishing to get involved in the analysis of GOLF data. GOLF data is now in the public domain. As the words imply, GOLF exercises no control on the use of, or publications involving, these data. However, we are always ready, if requested, to give advice on valid ways in which they can be interpreted. Users are requested to include an appropriate acknowledgement in publications involving these data.
+									</p>
+									<p>
+										Two levels of data are available, either through the <a href="#">SOHO archive</a> or through the following direct links:
+									</p>
+									<ul>
+										<li>
+											<h3>Level 1</h3>
+											<p>
+												These are time series of observed intensities in one wing of the sodium lines used by GOLF (see <a href="operation/ope_chrone.html">Operation chronology</a>).<br/>
+												In the <a href="#">SOHO archive</a>, they are stored in daily files (<a href="http://fits.gsfc.nasa.gov/">FITS format</a>).<br/>
+												These daily FITS files can be read using an <a href="../assets/documents/golffits_read.pro">IDL routine</a>. These files contains other informations including technical data (temperature of the detectors, etc...) corresponding to different file extension values (see <a href="../assets/documents/golffits_read.pro">IDL routine</a> and the <a href="../assets/documents/exten_hdr.txt">file headers</a>), not normally required by scientific user.<br/>
+												These intensities can be used instead of velocities in a harmonic analysis. However, since the calibration intensity to velocity varies with time, this will lead to an elevated noise level at low frequencies. Level 1 data can be used for serious research for 5 minute modes.
+											</p>
+										</li>
+										<li>
+											<h3>Level 2</h3>
+											<p>
+												These data are made of calibrated velocities. Mainly due to the loss of the rotating mechanisms of the polarisors, the calibration is not trivial. Individual GOLF Team scientists developed their own technique, based on different asumptions. 
+											</p> 
+										</li>
+										<li>
+											<h3>Download links</h3>
+											<p>
+												Nowadays, one series is available covering data from April 11, 1996 to December 31, 2013. Data from both detectors (PM1 and PM2) are available, as well as the mean of the two PMs. We have reason to suspect a slightly enhanced noise contribution from PM1. The user can choose to avoid this by using only PM2, or to reduce counting noise by summing the two. The temporal cadence of the time series is of 60 seconds and the duty cycle is of 96. Please cite Garcia et al. (2005) when publishing results using these data.
+											</p>
+											<ul class="coollist2">
+												<li>
+													<a href="../assets/data/GOLF_velocity_series_mean_pm1_pm2.fits.gz">Download the GOLF data (mean PM1+PM2)</a>
+												</li>
+												<li>
+													<a href="../assets/data/GOLF_velocity_series_pm1.fits.gz">Download the GOLF PM1 data</a>
+												</li>
+												<li>
+													<a href="../assets/data/GOLF_velocity_series_pm2.fits.gz">Download the GOLF PM2 data</a>
+												</li>
+											</ul>
+											<p>
+												In the past, six sets were available representing 3 different calibration methods and the 2 detectors PM1 and PM2. Here are series coming from techniques different from the one used above. The time series (calibration L2A and L2B) cover 11/4/1996 to 15/9/2004 (with a sampling of 20s). All series can be obtained (in FITS format) by clicks on the following links:
+											</p>
+											<ul class="coollist2">
+												<li>
+													Calibration L2A by Luca Bertello (please cite <a href="#">Ulrich et al</a>. if you use these data): data from <a href="#">PM1</a> and <a href="#">PM2</a>
+												</li>
+												<li>
+													Calibration L2B by Gerard Grec (please cite <a href="#">Gelly et al</a>. if you use these data): data from <a href="#">PM1</a> and <a href="#">PM2</a>
+												</li>
+											</ul>
+										</li>
+										<li>
+											<h3>Note</h3>
+											<ul class="coollist2">
+												<li>
+													<p>Please, use the INSTRUMENT and OPERATION menus to retrieve online information resources relevant to the analysis of the data (data losses, On Board Time jumps, Telecommands sent, detector high voltage readjustments). </p>
+												</li>
+												<li>
+													<p>Also use the following in your acknowledgements in publication: "The GOLF instrument onboard SoHO is a cooperative effort of scientists, engineers, and technicians, to whom we are indebted. SoHO is a project of international collaboration between ESA and NASA."</p>
+												</li>
+											</ul>
+											<p>
+												
+											</p>
+										</li>
+									</ul>
+								</article>
+							</div>
+						</div>
+						
+					</div>
+					<div id="backtotop">
+						<a href="#header" class="button  circled scrolly">Top</a>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer"></div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/jquery.dropotron.min.js"></script>
+			<script src="../assets/js/jquery.scrolly.min.js"></script>
+			<script src="../assets/js/jquery.onvisible.min.js"></script>
+			<script src="../assets/js/skel.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			
+			<script src="../assets/js/main.js"></script>
+			
+
+	</body>
+</html>

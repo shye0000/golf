@@ -1,0 +1,568 @@
+Ext. No       0  /  Ext. Id.       0
+
+SIMPLE  =                    T / file does conform to FITS standard             
+BITPIX  =                  -32 / number of bits per data pixel                  
+NAXIS   =                    1 / number of data axes                            
+NAXIS1  =                 1080 / length of data axis   1                        
+EXTEND  =                    T / FITS dataset may contain extensions            
+COMMENT   FITS (Flexible Image Transport System) format defined in Astronomy and
+COMMENT   Astrophysics Supplement Series v44/p363, v44/p371, v73/p359, v73/p365.
+COMMENT   Contact the NASA Science Office of Standards and Technology for the   
+COMMENT   FITS Definition document #100 and other FITS information.             
+COMMENT                                                                         
+DATE    = '03/05/02'           / FITS file creation date (dd/mm/yy)             
+TITLE   = 'GOLF_1  '           / FICHIER TELEMESURE                             
+LEVEL   =                    1 / NIVEAU D ANALYSE                               
+TELESCOP= 'SOHO    '           / ESA/NASA Solar orbital observatory             
+INSTRUME= 'GOLF    '           / Global oscillations at low frequencies         
+CHANNEL = 'FSmain  '           / canal en usage                                 
+PROGRAM = 'ecritfits1_cd'      / nom du programme qui a cree le fichier         
+VERSION = 'Wed Sep 22 15:03:06 1999' / creation du code executable              
+AUTHOR  = 'C.Renaud-G.Grec'    /                                                
+ORIGIN  = 'Observatoire de Nice' /                                              
+HOTE    = 'rota    '           / ordinateur utilise pour creer ce fichier       
+USER    = 'renaud  '           / utilisateur du programme                       
+CALIBR  = '************************' / edition des calibrations                 
+COMMENT    MESURES EN VOL                                                       
+COMMENT                                                                         
+DAT_OBS = ' 1/ 5/ 2'           / date de la mesure (j/m/a)                      
+COMMENT    temps de reference pour LOBT : TAI horloge de bord                   
+COMMENT    Debut du fichier a LOBT = 0 heure                                    
+COMMENT    Fin du fichier a LOBT = 24 heures                                    
+UT_TAI0 =            -2.90E+01 / valeur de UT a TAI=0h00:00 en sec.             
+DELOBS  =             5.00E+00 / retard des observations au sol en sec          
+TIMESTEP= '80 secondes'        / cycle de base Golf                             
+COMMENT    La premiere table contient un test                                   
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       1  /  Ext. Id.JOURNAL DE L ETAT DE L EXPERIENCE
+
+XTENSION= 'TABLE   '           / ASCII table extension                          
+BITPIX  =                    8 / 8-bit ASCII characters                         
+NAXIS   =                    2 / 2-dimensional ASCII table                      
+NAXIS1  =                   72 / width of table in characters                   
+NAXIS2  =                   64 / nombre de lignes utilisees                     
+PCOUNT  =                    0 / no group parameters (required keyword)         
+GCOUNT  =                    1 / one data group (required)                      
+TFIELDS =                    1 / number of fields in each row                   
+TBCOL1  =                    1 / beginning column of field   1                  
+TFORM1  = 'A72     '           / Fortran-77 format of field                     
+EXTNAME = 'JOURNAL DE L ETAT DE L EXPERIENCE' / name of this ASCII table extensi
+CHANNEL = 'FSmain  '           / canal en usage                                 
+COMMENT   partie 1 - Etat de l'experience                                       
+COMMENT   partie 2 - Liste des telecommandes                                    
+COMMENT   partie 3 - Liste des changements d'etat                               
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       2  /  Ext. Id.NUMERO DE BLOC GOLF,STATUS ET TEMPS LOBT
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   10 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    5 / number of fields in each row                   
+TTYPE1  = 'numero de bloc golf' / label for field   1                           
+TFORM1  = '1I      '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'unsigned number'    / physical unit of field                         
+TTYPE2  = 'LOBT1 (msb),unsigned' / label for field   2                          
+TFORM2  = '1I      '           / data format of the field: 2-byte INTEGER       
+TUNIT2  = '65536 secondes'     / physical unit of field                         
+TTYPE3  = 'LOBT2,      unsigned' / label for field   3                          
+TFORM3  = '1I      '           / data format of the field: 2-byte INTEGER       
+TUNIT3  = 'secondes'           / physical unit of field                         
+TTYPE4  = 'LOBT3 (lsb),unsigned' / label for field   4                          
+TFORM4  = '1I      '           / data format of the field: 2-byte INTEGER       
+TUNIT4  = 'seconde/65536'      / physical unit of field                         
+TTYPE5  = 'status telemetrie'  / label for field   5                            
+TFORM5  = '1I      '           / data format of the field: 2-byte INTEGER       
+TUNIT5  = 'unsigned number'    / physical unit of field                         
+EXTNAME = 'NUMERO DE BLOC GOLF,STATUS ET TEMPS LOBT' / name of this binary table
+COMMENT   LOBT=jour julien, temps=0 @ 0h 1 jan 58                               
+MISSING =                    0 / REMARK: apply only to the status data          
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       3  /  Ext. Id.TABLE DES COMPTAGES DU PM1
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   64 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'comptages, it=0a15' / label for field   1                            
+TFORM1  = '16E     '           / data format of the field: 4-byte REAL          
+TUNIT1  = 'coups par seconde'  / physical unit of field                         
+EXTNAME = 'TABLE DES COMPTAGES DU PM1' / name of this binary table extension    
+COMMENT   pour chaque jour 1080 lignes de 16 reels 32 bits                      
+COMMENT   une ligne contient les 16 comptages d'un cycle de 80 sec              
+MISSING =       -1.0000000E+06 / marquage des mesures non recues                
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       4  /  Ext. Id.TABLE DES COMPTAGES DU PM2
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   64 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'comptages, it=0a15' / label for field   1                            
+TFORM1  = '16E     '           / data format of the field: 4-byte REAL          
+TUNIT1  = 'coups par seconde'  / physical unit of field                         
+EXTNAME = 'TABLE DES COMPTAGES DU PM2' / name of this binary table extension    
+COMMENT   pour chaque jour 1080 lignes de 16 reels 32 bits                      
+COMMENT   une ligne contient les 16 comptages d'un cycle de 80 sec              
+MISSING =       -1.0000000E+06 / marquage des mesures non recues                
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       5  /  Ext. Id.COMPTAGES VOIE SPECTRE DU PM1
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   64 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'comptages, it=0a15' / label for field   1                            
+TFORM1  = '16E     '           / data format of the field: 4-byte REAL          
+TUNIT1  = 'coups par seconde'  / physical unit of field                         
+EXTNAME = 'COMPTAGES VOIE SPECTRE DU PM1' / name of this binary table extension 
+COMMENT   pour chaque jour 1080 lignes de 16 reels 32 bits                      
+COMMENT   une ligne contient les 16 comptages d'un cycle de 80 sec              
+MISSING =       -1.0000000E+06 / marquage des mesures non recues                
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       6  /  Ext. Id.COMPTAGES VOIE SPECTRE DU PM2
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   64 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'comptages, it=0a15' / label for field   1                            
+TFORM1  = '16E     '           / data format of the field: 4-byte REAL          
+TUNIT1  = 'coups par seconde'  / physical unit of field                         
+EXTNAME = 'COMPTAGES VOIE SPECTRE DU PM2' / name of this binary table extension 
+COMMENT   pour chaque jour 1080 lignes de 16 reels 32 bits                      
+COMMENT   une ligne contient les 16 comptages d'un cycle de 80 sec              
+MISSING =       -1.0000000E+06 / marquage des mesures non recues                
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       7  /  Ext. Id.POSITIONS DU MOTEUR POLARISEUR
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GXPOANG, it=0,15'   / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'POSITIONS DU MOTEUR POLARISEUR' / name of this binary table extension
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 positions d'un cycle de 80 sec              
+COMMENT   codage des positions moteurs sur 15 bits                              
+COMMENT   valeur negative si la fin du mouvement est anormale                   
+MISSING =                32768 / marquage des mesures non recues                
+OFFSET  =        0.0000000E+00 / position pour 0 binaire                        
+GAIN    =        1.0986328E-02 / valeur du bit en degre                         
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       8  /  Ext. Id.POSITIONS DU MOTEUR QUART D ONDE
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GXQWANG, it=0,15'   / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'POSITIONS DU MOTEUR QUART D ONDE' / name of this binary table extensi
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 positions d'un cycle de 80 sec              
+COMMENT   codage des positions moteurs sur 15 bits                              
+COMMENT   valeur negative si le bit de fin du mouvement est anormal             
+MISSING =                32768 / marquage des mesures non recues                
+OFFSET  =        0.0000000E+00 / position pour 0 binaire                        
+GAIN    =        1.0986328E-02 / valeur du bit en degre                         
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No       9  /  Ext. Id.TEMPERATURE FINE QUEUSOT
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GTCSFIN, it=0,15'   / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'TEMPERATURE FINE QUEUSOT' / name of this binary table extension      
+COMMENT   sonde platine                                                         
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 mesures d'un cycle de 80 sec                
+COMMENT   codage des mesures sur 14 bits                                        
+MISSING =                65535 / marquage des mesures non recues                
+OFFSET  =        1.6892999E+02 / temperature pour 0 binaire                     
+GAIN    =        9.7631253E-03 / facteur de conversion du binaire en degre      
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      10  /  Ext. Id.TEMPERATURE FINE FILTRE (sonde platine)
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GTFIFIN, it=0,16'   / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'TEMPERATURE FINE FILTRE (sonde platine)' / name of this binary table 
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 mesures d'un cycle de 80 sec                
+MISSING =                65535 / marquage des mesures non recues                
+COMMENT   codage des mesures sur 14 bits                                        
+OFFSET  =        3.4999999E-01 / temperature pour 0 binaire                     
+GAIN    =        9.7435899E-03 / facteur de conversion du binaire en degres Cels
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      11  /  Ext. Id.TEMPERATURE CATHODES PM1
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GTPM1FIN, it=0,15'  / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'TEMPERATURE CATHODES PM1' / name of this binary table extension      
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 mesures d'un cycle de 80 sec                
+COMMENT   codage des mesures sur 14 bits                                        
+MISSING =                65535 / marquage des mesures non recues                
+OFFSET  =        1.4580000E+01 / temperature Celsius pour 0 binaire             
+GAIN    =        4.9035409E-03 / conversion valeur binaire en degre Celsius     
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      12  /  Ext. Id.TEMPERATURE CATHODES PM2
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GTPM2FIN, it=0,15'  / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'TEMPERATURE CATHODES PM2' / name of this binary table extension      
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 mesures d'un cycle de 80 sec                
+COMMENT   codage des mesures sur 14 bits                                        
+MISSING =                65535 / marquage des mesures non recues                
+OFFSET  =        1.4350000E+01 / temperature Celsius pour 0 binaire             
+GAIN    =        4.9035409E-03 / conversion valeur binaire en degre Celsius     
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      13  /  Ext. Id.TEMPERATURE AIMANT
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   32 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GTMAGFIN, it=0,15'  / label for field   1                            
+TFORM1  = '16I     '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'valeurs binaires'   / physical unit of field                         
+EXTNAME = 'TEMPERATURE AIMANT' / name of this binary table extension            
+COMMENT   pour chaque jour 1080 lignes de 16 entiers 16 bits                    
+COMMENT   une ligne contient les 16 mesures d'un cycle de 80 sec                
+MISSING =                65535 / marquage des mesures non recues                
+COMMENT   codage des mesures sur 14 bits                                        
+OFFSET  =        1.0730000E+01 / temperature Celsius pour 0 binaire             
+GAIN    =        9.7802198E-03 / conversion valeur binaire en degre Celsius     
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      14  /  Ext. Id.TEMPERATURES PRELEVEES 2 FOIS PAR CYCLE
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   76 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                   19 / number of fields in each row                   
+TTYPE1  = 'GTPOELT '           / label for field   1                            
+TFORM1  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'binaire '           / physical unit of field                         
+TTYPE2  = 'GTPOMEC '           / label for field   2                            
+TFORM2  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT2  = 'binaire '           / physical unit of field                         
+TTYPE3  = 'GTSCREEN'           / label for field   3                            
+TFORM3  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT3  = 'binaire '           / physical unit of field                         
+TTYPE4  = 'GTFIRAD '           / label for field   4                            
+TFORM4  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT4  = 'binaire '           / physical unit of field                         
+TTYPE5  = 'GTFIHOUS'           / label for field   5                            
+TFORM5  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT5  = 'binaire '           / physical unit of field                         
+TTYPE6  = 'GTFIELT '           / label for field   6                            
+TFORM6  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT6  = 'binaire '           / physical unit of field                         
+TTYPE7  = 'GTPM1ELT'           / label for field   7                            
+TFORM7  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT7  = 'binaire '           / physical unit of field                         
+TTYPE8  = 'GTHV1   '           / label for field   8                            
+TFORM8  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT8  = 'binaire '           / physical unit of field                         
+TTYPE9  = 'GTPM2ELT'           / label for field   9                            
+TFORM9  = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT9  = 'binaire '           / physical unit of field                         
+TTYPE10 = 'GTHV2   '           / label for field  10                            
+TFORM10 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT10 = 'binaire '           / physical unit of field                         
+TTYPE11 = 'GTCB    '           / label for field  11                            
+TFORM11 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT11 = 'binaire '           / physical unit of field                         
+TTYPE12 = 'GTREARAD'           / label for field  12                            
+TFORM12 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT12 = 'binaire '           / physical unit of field                         
+TTYPE13 = 'GTCLEAK '           / label for field  13                            
+TFORM13 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT13 = 'binaire '           / physical unit of field                         
+TTYPE14 = 'GTCS    '           / label for field  14                            
+TFORM14 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT14 = 'binaire '           / physical unit of field                         
+TTYPE15 = 'GTHSKELT'           / label for field  15                            
+TFORM15 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT15 = 'binaire '           / physical unit of field                         
+TTYPE16 = 'GTDPU   '           / label for field  16                            
+TFORM16 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT16 = 'binaire '           / physical unit of field                         
+TTYPE17 = 'GTPSU   '           / label for field  17                            
+TFORM17 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT17 = 'binaire '           / physical unit of field                         
+TTYPE18 = 'GTQWELT '           / label for field  18                            
+TFORM18 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT18 = 'binaire '           / physical unit of field                         
+TTYPE19 = 'GTQWMEC '           / label for field  19                            
+TFORM19 = '2I      '           / data format of the field: 2-byte INTEGER       
+TUNIT19 = 'binaire '           / physical unit of field                         
+EXTNAME = 'TEMPERATURES PRELEVEES 2 FOIS PAR CYCLE' / name of this binary table 
+COMMENT    les mesures manquantes sont forcees a ffff hexadecimal               
+MISSING =                65535 / marquage des mesures non recues                
+OFFSET1 =       -1.4450000E+01 / temperature Celsius pour 0 binaire             
+OFFSET2 =       -1.4250000E+01 / temperature Celsius pour 0 binaire             
+OFFSET3 =       -1.4400000E+01 / temperature Celsius pour 0 binaire             
+OFFSET4 =       -3.9049999E+01 / temperature Celsius pour 0 binaire             
+OFFSET5 =       -1.5150000E+01 / temperature Celsius pour 0 binaire             
+OFFSET6 =       -1.5330000E+01 / temperature Celsius pour 0 binaire             
+OFFSET7 =       -1.4750000E+01 / temperature Celsius pour 0 binaire             
+OFFSET8 =       -1.3240000E+01 / temperature Celsius pour 0 binaire             
+OFFSET9 =       -1.3100000E+01 / temperature Celsius pour 0 binaire             
+OFFSET10=       -1.4570000E+01 / temperature Celsius pour 0 binaire             
+OFFSET11=       -2.3999999E-01 / temperature Celsius pour 0 binaire             
+OFFSET12=       -1.3400000E+01 / temperature Celsius pour 0 binaire             
+OFFSET13=       -1.3050000E+01 / temperature Celsius pour 0 binaire             
+OFFSET14=       -8.0000001E-01 / temperature Celsius pour 0 binaire             
+OFFSET15=       -1.3150000E+01 / temperature Celsius pour 0 binaire             
+OFFSET16=       -1.4050000E+01 / temperature Celsius pour 0 binaire             
+OFFSET17=       -1.4050000E+01 / temperature Celsius pour 0 binaire             
+OFFSET18=       -1.5350000E+01 / temperature Celsius pour 0 binaire             
+OFFSET19=       -1.4850000E+01 / temperature Celsius pour 0 binaire             
+GAIN1   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN2   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN3   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN4   =        1.7338218E-02 / conversion valeur binaire en degre Celsius     
+GAIN5   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN6   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN7   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN8   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN9   =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN10  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN11  =        5.2461538E-02 / conversion valeur binaire en degre Celsius     
+GAIN12  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN13  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN14  =        5.2459098E-02 / conversion valeur binaire en degre Celsius     
+GAIN15  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN16  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN17  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN18  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+GAIN19  =        1.7076923E-02 / conversion valeur binaire en degre Celsius     
+COMMENT   1080 lignes pour chacune des 19 variables definies,                   
+COMMENT   chaque ligne contient les 2 mesures de chaque cycle de 80 sec         
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      15  /  Ext. Id.VOLTAGES DES ALIMENTATIONS
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                   10 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    5 / number of fields in each row                   
+TTYPE1  = 'Gplus28 '           / label for field   1                            
+TFORM1  = 'I       '           / data format of the field: 2-byte INTEGER       
+TUNIT1  = 'binaire '           / physical unit of field                         
+TTYPE2  = 'Gplus5  '           / label for field   2                            
+TFORM2  = 'I       '           / data format of the field: 2-byte INTEGER       
+TUNIT2  = 'binaire '           / physical unit of field                         
+TTYPE3  = 'Gmoins5 '           / label for field   3                            
+TFORM3  = 'I       '           / data format of the field: 2-byte INTEGER       
+TUNIT3  = 'binaire '           / physical unit of field                         
+TTYPE4  = 'Gplus15 '           / label for field   4                            
+TFORM4  = 'I       '           / data format of the field: 2-byte INTEGER       
+TUNIT4  = 'binaire '           / physical unit of field                         
+TTYPE5  = 'Gmoins15'           / label for field   5                            
+TFORM5  = 'I       '           / data format of the field: 2-byte INTEGER       
+TUNIT5  = 'binaire '           / physical unit of field                         
+EXTNAME = 'VOLTAGES DES ALIMENTATIONS' / name of this binary table extension    
+COMMENT    les mesures manquantes sont forcees a 8000 hexadecimal               
+MISSING =                65535 / marquage des mesures non recues                
+OFFSET1 =        7.0000000E+01 / tension en Volt pour 0 binaire                 
+OFFSET2 =       -6.2500000E+00 / tension en Volt pour 0 binaire                 
+OFFSET3 =       -6.2500000E+00 / tension en Volt pour 0 binaire                 
+OFFSET4 =       -1.8725000E+01 / tension en Volt pour 0 binaire                 
+OFFSET5 =       -1.8725000E+01 / tension en Volt pour 0 binaire                 
+GAIN1   =       -3.4188036E-02 / conversion valeur binaire en Volt              
+GAIN2   =        3.0525031E-03 / conversion valeur binaire en Volt              
+GAIN3   =        3.0525031E-03 / conversion valeur binaire en Volt              
+GAIN4   =        9.1452990E-03 / conversion valeur binaire en Volt              
+GAIN5   =        9.1452990E-03 / conversion valeur binaire en Volt              
+COMMENT   1080 lignes pour chacune des 5 variables definies,                    
+COMMENT   chaque tension est mesuree une fois sur chaque cycle de 80 sec        
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      16  /  Ext. Id.SEUIL DISCRI SPECTRE DU PM1
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                    1 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GUSP1DAC'           / label for field   1                            
+TFORM1  = 'B       '           / data format of the field: BYTE                 
+TUNIT1  = 'binaire '           / physical unit of field                         
+EXTNAME = 'SEUIL DISCRI SPECTRE DU PM1' / name of this binary table extension   
+COMMENT   tableau de 1080 valeurs                                               
+COMMENT   une valeur pour chaque cycle de 80 sec                                
+MISSING =                    0 / marquage des mesures non recues                
+OFFSET  =        0.0000000E+00 / seuil en mVolt pour 0 binaire                  
+GAIN    =        4.9803920E+00 / conversion valeur binaire en mVolt             
+END                                                                             
+
+______________________________________________________
+
+
+Ext. No      17  /  Ext. Id.SEUIL DISCRI SPECTRE DU PM2
+
+XTENSION= 'BINTABLE'           / binary table extension                         
+BITPIX  =                    8 / 8-bit bytes                                    
+NAXIS   =                    2 / 2-dimensional binary table                     
+NAXIS1  =                    1 / width of table in bytes                        
+NAXIS2  =                 1080 / number of rows in table                        
+PCOUNT  =                    0 / size of special data area                      
+GCOUNT  =                    1 / one data group (required keyword)              
+TFIELDS =                    1 / number of fields in each row                   
+TTYPE1  = 'GUSP2DAC'           / label for field   1                            
+TFORM1  = 'B       '           / data format of the field: BYTE                 
+TUNIT1  = 'binaire '           / physical unit of field                         
+EXTNAME = 'SEUIL DISCRI SPECTRE DU PM2' / name of this binary table extension   
+COMMENT   tableau de 1080 valeurs                                               
+COMMENT   une valeur pour chaque cycle de 80 sec                                
+MISSING =                    0 / marquage des mesures non recues                
+OFFSET  =        0.0000000E+00 / seuil en mVolt pour 0 binaire                  
+GAIN    =        4.9803920E+00 / conversion valeur binaire en mVolt             
+END                                                                             
+
+______________________________________________________
+

@@ -5,7 +5,105 @@
 */
 
 (function($) {
+	function load_header(){
+		$.get('../templates/header.html', function(data) {
+  			var fileContents = data;
+  			$(".header2").html(fileContents);
+  			$('#nav > ul').dropotron({
+				mode: 'fade',
+				speed: 350,
+				noOpenerFade: true,
+				alignment: 'center'
+			});
+			$(
+				'<div id="navButton">' +
+					'<a href="#navPanel" class="toggle"></a>' +
+				'</div>'
+			)
+				.appendTo($('body'));
+				console.log($('#nav'));
+		// Navigation Panel.
+			$(
+				'<div id="navPanel">' +
+					'<nav>' +
+						$('#nav').navList() +
+					'</nav>' +
+				'</div>'
+			)
+				.appendTo($('body'))
+				.panel({
+					delay: 500,
+					hideOnClick: true,
+					hideOnSwipe: true,
+					resetScroll: true,
+					resetForms: true,
+					target: $('body'),
+					visibleClass: 'navPanel-visible'
+				});
+
+		// Fix: Remove navPanel transitions on WP<10 (poor/buggy performance).
+			if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
+				$('#navButton, #navPanel, #page-wrapper')
+					.css('transition', 'none');
+		}).fail(function() {
+		    $.get('../../templates/header2.html', function(data) {
+	  			var fileContents = data;
+	  			$(".header2").html(fileContents);
+	  			$('#nav > ul').dropotron({
+					mode: 'fade',
+					speed: 350,
+					noOpenerFade: true,
+					alignment: 'center'
+				});
+				$(
+					'<div id="navButton">' +
+						'<a href="#navPanel" class="toggle"></a>' +
+					'</div>'
+				)
+					.appendTo($('body'));
+					console.log($('#nav'));
+			// Navigation Panel.
+				$(
+					'<div id="navPanel">' +
+						'<nav>' +
+							$('#nav').navList() +
+						'</nav>' +
+					'</div>'
+				)
+					.appendTo($('body'))
+					.panel({
+						delay: 500,
+						hideOnClick: true,
+						hideOnSwipe: true,
+						resetScroll: true,
+						resetForms: true,
+						target: $('body'),
+						visibleClass: 'navPanel-visible'
+					});
+
+			// Fix: Remove navPanel transitions on WP<10 (poor/buggy performance).
+				if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
+					$('#navButton, #navPanel, #page-wrapper')
+						.css('transition', 'none');
+			});
+		  });
+		
+	}
+
+	function load_footer(){
+		$.get('../templates/footer.html', function(data) {
+			var fileContents = data;
+  			$("#footer").html(fileContents);
+		}).fail(function() {
+		    $.get('../../templates/footer2.html', function(data) {
+				var fileContents = data;
+	  			$("#footer").html(fileContents);
+			});
+		  });
+	}
 	//alert($(window).scrollTop());
+	load_header();
+	load_footer();
 	if ($(window).scrollTop() == 0) {
        	$("#backtotop").css("display","none");
     } else {
@@ -24,7 +122,7 @@
 			carousels: {
 				speed: 4,
 				fadeIn: true,
-				fadeDelay: 50
+				fadeDelay: 250
 			},
 
 	};
@@ -41,7 +139,6 @@
 
 		var	$window = $(window),
 			$body = $('body');
-
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
 
@@ -64,50 +161,9 @@
 				);
 			});
 
-		// Dropdowns.
-			$('#nav > ul').dropotron({
-				mode: 'fade',
-				speed: 350,
-				noOpenerFade: true,
-				alignment: 'center'
-			});
-
 		// Scrolly links.
 			$('.scrolly').scrolly();
-
-		// Off-Canvas Navigation.
-
-			// Navigation Button.
-				$(
-					'<div id="navButton">' +
-						'<a href="#navPanel" class="toggle"></a>' +
-					'</div>'
-				)
-					.appendTo($body);
-					console.log($('#nav'));
-			// Navigation Panel.
-				$(
-					'<div id="navPanel">' +
-						'<nav>' +
-							$('#nav').navList() +
-						'</nav>' +
-					'</div>'
-				)
-					.appendTo($body)
-					.panel({
-						delay: 500,
-						hideOnClick: true,
-						hideOnSwipe: true,
-						resetScroll: true,
-						resetForms: true,
-						target: $body,
-						visibleClass: 'navPanel-visible'
-					});
-
-			// Fix: Remove navPanel transitions on WP<10 (poor/buggy performance).
-				if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
-					$('#navButton, #navPanel, #page-wrapper')
-						.css('transition', 'none');
+				
 
 		// Carousels.
 			$('.carousel').each(function() {

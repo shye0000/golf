@@ -44,9 +44,24 @@
 		border-spacing: 0;
 	}
 
+	table {
+	    background: none repeat scroll 0 0 #fff;
+	    border: 1px solid #ddd;
+	    border-radius: 3px;
+	    margin: 0 0 18px;
+	}
+
+
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	header > ul {
+		text-align: justify;
+		font-size: 1.5em;
+	  	margin: 1em 0 2em 0;
+	  	line-height: 1.5em;
+	}
+
 
 /* Box Model */
 
@@ -84,7 +99,15 @@
 	.container {
 		width: 1400px;
 	}
+	.homeimg {
+		height: 400px;
 
+	}
+	.homeimg2 {
+		!margin-left: 1em;
+		height: 200px;
+
+	}
 	@media screen and (max-width: 5000px) {
 		#header.header2{
 			padding: 4em 0 1em 0;
@@ -104,7 +127,7 @@
   			padding-left: 20%;
   			padding-right: 20%;
 		}
-		#header, #banner, #people {
+		#header, #banner, #people, #people2, #instrument {
 			min-height: 45em;
 		}
 	}
@@ -132,7 +155,11 @@
 			width: 1200px;
 		}
 		
+		.homeimg2 {
+			!margin-left: 1em;
+			height: 160px;
 
+		}
 	}
 
 	@media screen and (max-width: 1280px) {
@@ -157,6 +184,19 @@
 
 		.container {
 			width: 100%;
+		}
+		.homeimg {
+			height: 350px;
+
+		}
+		.homeimg2 {
+			!margin-left: 1em;
+			height: 120px;
+
+		}
+		.homeimg {
+			height: 300px;
+
 		}
 
 	}
@@ -184,6 +224,15 @@
 		.container {
 			width: 100%;
 		}
+		.homeimg {
+			height: 300px;
+
+		}
+		.homeimg2 {
+			!margin-left: 1em;
+			height: 90px;
+
+		}
 
 	}
 
@@ -210,6 +259,11 @@
 		.container {
 			width: 100% !important;
 		}
+		
+		.homeimg {
+			height: 200px;
+
+		}
 
 	}
 
@@ -235,6 +289,15 @@
 
 		.container {
 			width: 100% !important;
+		}
+		.homeimg {
+			height: 100px;
+
+		}
+		.homeimg2 {
+			!margin-left: 1em;
+			height: 50px;
+
 		}
 
 	}
@@ -2400,8 +2463,6 @@
 	}
 
 /* Sidebar */
-	#sidebar {
-	}
 
 	#sidebar > hr {
 		top: 3em;
@@ -2414,14 +2475,6 @@
 
 	#sidebar > section {
 		margin-bottom: 0;
-		!background: #df7366;
-		!padding: 2vh;
-
-	}
-	#sidebar header {
-		!background: #df7366;
-		!padding: 2vh;
-
 	}
 
 /* Main */
@@ -2452,6 +2505,7 @@
 		#footer header {
 			text-align: center;
 			cursor: default;
+			display: block;
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
@@ -2463,8 +2517,9 @@
 		}
 
 			#footer .contact p {
-				text-align: center;
+				text-align: justify;
 				margin: 0 0 3em 0;
+				display: inline-block;
 			}
 
 		#footer .copyright {
@@ -2618,7 +2673,7 @@
   				top: 2em;
   				margin-bottom: 4.5em;
 			}
-			#header, section#banner, section#people {
+			#header, section#banner, section#people , section#people2, section#instrument {
 				min-height: 42em;
 			}
 
@@ -2653,7 +2708,7 @@
   				top: 1.5em;
   				margin-bottom: 3.5em;
 			}
-			#header, section#banner, section#people {
+			#header, section#banner, section#people, section#people2, section#instrument {
 				min-height: 40em;
 			}
 		/* Wrapper */
@@ -2722,7 +2777,7 @@
   				top: 1em;
   				margin-bottom: 2.3em;
 			}
-			#header, section#banner, section#people {
+			#header, section#banner, section#people, section#people2, section#instrument {
 				min-height: 38em;
 			}
 		/* Footer */
@@ -2741,6 +2796,10 @@
 					width: 18em;
 					margin: 0 1em 0 0;
 				}
+
+			#nav > ul > li {
+  			  	margin: -9px 0.1em 0 0.1em
+			}	
 
 	}
 
@@ -2779,7 +2838,7 @@
 				top: 3em;
 				margin-bottom: 6em;
 			}
-			#header, section#banner, section#people {
+			#header, section#banner, section#people, section#people2, section#instrument {
 				min-height: 32em;
 			}
 		/* Section/Article */
@@ -2801,6 +2860,9 @@
 			}
 
 			header > p {
+				font-size: 1em;
+			}
+			header > ul {
 				font-size: 1em;
 			}
 
@@ -3154,16 +3216,25 @@
 #logo img{
 	width: 100%;
 }
-#people{
+#people, #people2, #instrument{
 	background-color: #f0f4f4;
 	height: 95vh;
 	!min-height: 45em;
-	padding: 2.5em 0 2.5em 0;
+	padding: 2.5em 2em 2.5em 2em;
 	margin: 0 0 5vh 0;
 	text-align: center;
 	!line-height: 70vh;
 }
-#instrument{
+.peoplelist{
+	position: relative;
+	text-align: left;
+	margin: 0 auto;
+	display: table;
+}
+.peoplelist ul {
+	list-style: square inside;
+}
+#people3{
 	padding: 2.5em 2em 2.5em 2em;
 	margin: 0 0 5vh 0;
 	text-align: center;
@@ -3199,12 +3270,17 @@ footer.next{
 
 .coollist{
 	list-style: square outside none;
-	margin-left: 1em;
 }
 .coollist2{
 	list-style: square inside none;
 }
 
 ul li p, ul li ul h4, ul li ul li{
-	padding: 0 0 0 0;
+	padding: 0 0 0 1vh;
 }
+
+table.responsive#dectorcorrection td, table.responsive#dectorcorrection th{
+	text-align: center;
+}
+
+
