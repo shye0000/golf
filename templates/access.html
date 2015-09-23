@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Access data - GOLF (SOHO) Home page</title>
+		<title>Access data - GOLF (SoHO) Home page</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
@@ -69,14 +69,14 @@
 										The GOLF team is anxious to encourage any scientists wishing to get involved in the analysis of GOLF data. GOLF data is now in the public domain. As the words imply, GOLF exercises no control on the use of, or publications involving, these data. However, we are always ready, if requested, to give advice on valid ways in which they can be interpreted. Users are requested to include an appropriate acknowledgement in publications involving these data.
 									</p>
 									<p>
-										Two levels of data are available, either through the <a href="#">SOHO archive</a> or through the following direct links:
+										Two levels of data are available, either through the <a href="#">SoHO archive</a> or through the following direct links:
 									</p>
 									<ul>
 										<li>
 											<h3>Level 1</h3>
 											<p>
 												These are time series of observed intensities in one wing of the sodium lines used by GOLF (see <a href="operation/ope_chrone.html">Operation chronology</a>).<br/>
-												In the <a href="#">SOHO archive</a>, they are stored in daily files (<a href="http://fits.gsfc.nasa.gov/">FITS format</a>).<br/>
+												In the <a href="#">SoHO archive</a>, they are stored in daily files (<a href="http://fits.gsfc.nasa.gov/">FITS format</a>).<br/>
 												These daily FITS files can be read using an <a href="../assets/documents/golffits_read.pro">IDL routine</a>. These files contains other informations including technical data (temperature of the detectors, etc...) corresponding to different file extension values (see <a href="../assets/documents/golffits_read.pro">IDL routine</a> and the <a href="../assets/documents/exten_hdr.txt">file headers</a>), not normally required by scientific user.<br/>
 												These intensities can be used instead of velocities in a harmonic analysis. However, since the calibration intensity to velocity varies with time, this will lead to an elevated noise level at low frequencies. Level 1 data can be used for serious research for 5 minute modes.
 											</p>
@@ -108,10 +108,25 @@
 											</p>
 											<ul class="coollist2">
 												<li>
-													Calibration L2A by Luca Bertello (please cite <a href="#">Ulrich et al</a>. if you use these data): data from <a href="#">PM1</a> and <a href="#">PM2</a>
+													Calibration L2A by Luca Bertello (please cite <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2000A%26A...364..816U&db_key=AST&high=3bf0f8334015960">Ulrich et al</a>. if you use these data): data from <a href="#">PM1</a> and <a href="#">PM2</a>
 												</li>
 												<li>
-													Calibration L2B by Gerard Grec (please cite <a href="#">Gelly et al</a>. if you use these data): data from <a href="#">PM1</a> and <a href="#">PM2</a>
+													Calibration L2B by Gerard Grec (please cite <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2002A%26A...394..285G&db_key=AST&high=3bf0f8334008119">Gelly et al</a>. if you use these data): data from <a href="#">PM1</a> and <a href="#">PM2</a>
+												</li>
+											</ul>
+										</li>
+										<li>
+											<h3>Level 3</h3>
+											<ul class="coollist2">
+												<li>
+													A frequency table from the first 8 months of data, published in <a href="../../assets/documents/paper_lazrek.ps.Z">Lazrek et al</a>.
+												</li>
+												<li>
+													Another frequency table, on a smaller frequency range, but which is more precised as it takes into account mode asymmetry and a longer time series (published in <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2000A%26A...355..743T&db_key=AST&high=38da58076013452">Thiery et al</a>.)
+												</li>
+												<li>
+													Additional results can be found at:<br/> 
+													<a href="http://irfu.cea.fr/Sap/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=1130">http://irfu.cea.fr/Sap/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=1130</a>
 												</li>
 											</ul>
 										</li>

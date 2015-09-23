@@ -194,10 +194,6 @@
 			height: 120px;
 
 		}
-		.homeimg {
-			height: 300px;
-
-		}
 
 	}
 
@@ -2193,7 +2189,7 @@
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
-		padding: 2.5em 0 2em 0;
+		padding: 3.5em 0 2em 0;
 		margin: 0 0 0 0;
 		cursor: default;
 	}
@@ -2823,15 +2819,15 @@
 			}
 
 			h2 {
-				font-size: 1.75em;
+				font-size: 1.5em;
 			}
 
 			h3 {
 				font-size: 1.25em;
 			}
 			hr.hrhomepage {
-  				top: 0.5em;
-  				margin-bottom: 1.5em;
+  				top: 0em;
+  				margin-bottom: 1em;
 			}
 
 			hr {
@@ -2839,7 +2835,28 @@
 				margin-bottom: 6em;
 			}
 			#header, section#banner, section#people, section#people2, section#instrument {
-				min-height: 32em;
+				min-height: 27em;
+				padding: 2em 1em 1.5em 1em;
+			}
+			#header .button, #backtotop .button {
+			  display: inline-block;
+			  border-radius: 100%;
+			  width: 3em;
+			  height: 3em;
+			  line-height: 3em;
+			  text-align: center;
+			  font-size: 1.25em;
+			  padding: 0;
+			}
+			footer .button {
+			  display: inline-block;
+			  border-radius: 100% 100% 0 0;
+			  width: 3em;
+			  height: 2.5em;
+			  line-height: 2.5em;
+			  text-align: center;
+			  font-size: 1.25em;
+			  padding: 0;
 			}
 		/* Section/Article */
 
@@ -2861,9 +2878,12 @@
 
 			header > p {
 				font-size: 1em;
+				margin-top: 0;
+				margin-bottom: 0.7em;
 			}
 			header > ul {
 				font-size: 1em;
+				line-height: initial;
 			}
 
 		/* Image */
@@ -3129,7 +3149,7 @@
 			}
 
 				#header .inner {
-					padding-top: 1.5em;
+					padding-top: 1em;
 					padding-left: 1em;
 					padding-right: 1em;
 				}
@@ -3149,7 +3169,7 @@
 
 			body.homepage #header {
 				!min-height: 0;
-				padding: 5.5em 0 5em 0;
+				!padding: 5.5em 0 5em 0;
 				!height: auto;
 			}
 
@@ -3272,7 +3292,7 @@ footer.next{
 	list-style: square outside none;
 }
 .coollist2{
-	list-style: square inside none;
+	list-style: square outside none;
 }
 
 ul li p, ul li ul h4, ul li ul li{
@@ -3283,4 +3303,21 @@ table.responsive#dectorcorrection td, table.responsive#dectorcorrection th{
 	text-align: center;
 }
 
+.exposant {
+	position: relative;
+	bottom: 1px;
+	font-size: .8em;
+	line-height: .8em;
+	vertical-align:super;
+	text-decoration:none;
+}
+.freqlist h3{
+	cursor: pointer;
+	padding: 5px;
+	margin: 0;
 
+}
+.freqlist h3:hover{
+	border: 1px solid gray;
+	margin: -1px;
+}

@@ -2,13 +2,13 @@
 <!--
 	Helios by HTML5 UP
 	html5up.net | @n33co
-	Free for personal and commercial use under tde CCA 3.0 license (html5up.net/license)
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
-		<title>Frequency tables - GOLF (SOHO) Home page</title>
+		<title>Frequency tables - GOLF (SoHO) Home page</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="widtd=device-widtd, initial-scale=1" />
+		<meta name="viewport" content="widtd=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="../../assets/css/main.css" />
 		<link rel="stylesheet" href="../../assets/css/responsive_table.css" />
@@ -31,12 +31,12 @@
 
 								</header>
 								<ul class="coollist2">
-									<li>
-										<h3>A frequency table from the first 8 months of data, published in Lazrek et al.</h3>
+									<li class="freqlist">
+										<h3>A frequency table from the first 8 months of data</h3>
 										<p>
-											Frequencies and errors, in µHz, as measured by GOLF instrument (from Lazrek et al.). Bracketted frequencies are only possible identifications.
+											Frequencies and errors, in µHz, as measured by GOLF instrument (from <a href="../../assets/documents/paper_lazrek.ps.Z">Lazrek et al</a>.). Bracketted frequencies are only possible identifications.
 										</p> 
-										<table class="responsive">
+										<table class="responsive freqtable">
 											<tbody id="">
 												<tr><th><i>n</i></th><th><i>l</i> = 0</th><th><i>l</i> = 1</th><th><i>l</i> = 2</th>
             <th><i>l</i> = 3</th><th><i>l</i> = 4</th><th><i>l</i> = 5</th></tr>
@@ -126,10 +126,10 @@
 											</tbody>
 										</table>
 									</li>
-									<li>
-										<h3>Another frequency table, which is more precised as it takes into account mode asymmetry and a longer time series (published in thiery et al.)</h3>
+									<li class="freqlist">
+										<h3>Another frequency table, on a smaller frequency range, but which is more precised as it takes into account mode asymmetry and a longer time series</h3>
 										<p>
-											Frequencies and 1 sigma errors, in µHz, as measured by GOLF instrument, taking into account tde asymmetry of tde modes (from thiery et al.).
+											Frequencies and 1 sigma errors, in µHz, as measured by GOLF instrument, taking into account the asymmetry of the modes (published in <a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2000A%26A...355..743T&db_key=AST&high=38da58076013452">thiery et al</a>.).
 										</p> 
 										<table class="responsive">
 											<tbody id="">
@@ -151,7 +151,10 @@
 											</tbody>
 										</table>
 									</li>
-									
+									<li>
+										Additional results can be found at:<br/> 
+										<a href="http://irfu.cea.fr/Sap/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=1130">http://irfu.cea.fr/Sap/Phocea/Vie_des_labos/Ast/ast_technique.php?id_ast=1130</a>
+									</li>
 								</ul>
 							</article>	
 					</div>
@@ -175,5 +178,6 @@
 			<script src="../../assets/js/util.js"></script>
 			<script src="../../assets/js/main.js"></script>
 			<script src="../../assets/js/responsive-table.js"></script>
+			<script src="../../assets/js/expand-hide.js"></script>
 	</body>
 </html>

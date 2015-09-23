@@ -53,5 +53,5 @@ plot,pm1_p,psym=2,yrange=[min(pm1_m)*0.9,max(pm1_p)*1.1]
 oplot,pm1_m,psym=-2
 oplot,pm2_p,psym=1
 oplot,pm2_m,psym=-1
-
+stop
  end 
