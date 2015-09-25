@@ -2670,7 +2670,7 @@
   				margin-bottom: 4.5em;
 			}
 			#header, section#banner, section#people , section#people2, section#instrument {
-				min-height: 42em;
+				min-height: 48em;
 			}
 
 		/* Carousel */
@@ -2705,7 +2705,7 @@
   				margin-bottom: 3.5em;
 			}
 			#header, section#banner, section#people, section#people2, section#instrument {
-				min-height: 40em;
+				min-height: 50em;
 			}
 		/* Wrapper */
 
